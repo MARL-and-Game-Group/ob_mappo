@@ -1,0 +1,218 @@
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 19246 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-46nsf0dg/'
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 21281 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-zqd3_tx8/'
+Version: B70326 (SC2.2018Season4)
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 24022 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-wqo38_hp/'
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 24945 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-_3duw59p/'
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 19394 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-zxumbmza/'
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 21244 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-ue4r0vum/'
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 18412 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-l3wap8_9/'
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 21610 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-qn5wv18v/'
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Starting up...
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:21281
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:24945
+Startup Phase 3 complete. Ready for commands.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Listening on: 127.0.0.1:21244
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:19246
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:24022
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:18412
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:21610
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:19394
+Startup Phase 3 complete. Ready for commands.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Entering load game phase.
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Traceback (most recent call last):
+  File "train/train_smac.py", line 175, in <module>
+    main(sys.argv[1:])
+  File "train/train_smac.py", line 160, in main
+    runner.run()
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/runner/shared/smac_runner.py", line 59, in run
+    self.save()
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/runner/shared/base_runner.py", line 131, in save
+    policy_critic = self.trainer.policy.critic
+AttributeError: 'R_MAPPOPolicy' object has no attribute 'critic'

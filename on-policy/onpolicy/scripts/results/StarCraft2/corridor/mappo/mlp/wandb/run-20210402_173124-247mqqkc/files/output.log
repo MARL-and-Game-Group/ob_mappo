@@ -1,0 +1,224 @@
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 17456 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-tcem45sf/'
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 17633 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-29snlkeh/'
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 18432 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-uzwgf9ly/'
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 21647 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-izs4kfuf/'
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 18675 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-qwg44jpj/'
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 22779 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-w63noten/'
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 17896 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-150afsgb/'
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 16046 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-g312d3cz/'
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:17896
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:18432
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:18675
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:17633
+Startup Phase 3 complete. Ready for commands.
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Listening on: 127.0.0.1:17456
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:21647
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:16046
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:22779
+Startup Phase 3 complete. Ready for commands.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Game has started.
+Sending ResponseJoinGame
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Game has started.
+Sending ResponseJoinGame
+Sending ResponseJoinGame
+Game has started.
+Game has started.
+Sending ResponseJoinGame
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Traceback (most recent call last):
+  File "/home/menglh/.pycharm_helpers/pydev/pydevd.py", line 1477, in _exec
+    pydev_imports.execfile(file, globals, locals)  # execute the script
+  File "/home/menglh/.pycharm_helpers/pydev/_pydev_imps/_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/scripts/train/train_smac.py", line 175, in <module>
+    main(sys.argv[1:])
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/scripts/train/train_smac.py", line 160, in main
+    runner.run()
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/runner/shared/smac_runner.py", line 51, in run
+    ob = self.piob_corrected(q_values, pi)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/runner/shared/smac_runner.py", line 23, in piob_corrected
+    M = torch.norm(pi) ** 2 + 1
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/torch/functional.py", line 1284, in norm
+    ndim = input.dim()
+AttributeError: 'numpy.ndarray' object has no attribute 'dim'

@@ -1,0 +1,62 @@
+2021-04-07 22:02:21,491 INFO    MainThread:912254 [wandb_init.py:_log_setup():292] Logging user logs to /home/menglh/rlproj/tmp/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210407_220221-2ih6w37h/logs/debug.log
+2021-04-07 22:02:21,492 INFO    MainThread:912254 [wandb_init.py:_log_setup():293] Logging internal logs to /home/menglh/rlproj/tmp/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210407_220221-2ih6w37h/logs/debug-internal.log
+2021-04-07 22:02:21,492 INFO    MainThread:912254 [wandb_setup.py:_flush():68] setting env: {}
+2021-04-07 22:02:21,492 INFO    MainThread:912254 [wandb_setup.py:_flush():68] setting user settings: {}
+2021-04-07 22:02:21,492 INFO    MainThread:912254 [wandb_setup.py:_flush():68] multiprocessing start_methods=fork,spawn,forkserver
+2021-04-07 22:02:26,223 INFO    MainThread:912254 [wandb_run.py:_console_start():1265] atexit reg
+2021-04-07 22:02:26,226 INFO    MainThread:912254 [wandb_run.py:_redirect():1135] redirect: SettingsConsole.REDIRECT
+2021-04-07 22:02:26,231 INFO    MainThread:912254 [wandb_run.py:_redirect():1138] Redirecting console.
+2021-04-07 22:02:26,231 INFO    MainThread:912254 [redirect.py:install():196] install start
+2021-04-07 22:02:26,232 INFO    MainThread:912254 [redirect.py:install():211] install stop
+2021-04-07 22:02:26,233 INFO    MainThread:912254 [redirect.py:install():196] install start
+2021-04-07 22:02:26,233 INFO    MainThread:912254 [redirect.py:install():211] install stop
+2021-04-07 22:02:26,234 INFO    MainThread:912254 [wandb_run.py:_redirect():1182] Redirects installed.
+2021-04-07 22:03:20,156 INFO    MainThread:912254 [wandb_run.py:_atexit_cleanup():1238] got exitcode: 0
+2021-04-07 22:03:20,161 INFO    MainThread:912254 [wandb_run.py:_restore():1210] restore
+2021-04-07 22:03:20,161 INFO    MainThread:912254 [redirect.py:uninstall():215] uninstall start
+2021-04-07 22:03:20,162 INFO    MainThread:912254 [redirect.py:_stop():264] _stop: stdout
+2021-04-07 22:03:20,164 INFO    MainThread:912254 [redirect.py:_stop():270] _stop closed: stdout
+2021-04-07 22:03:20,165 INFO    stdout    :912254 [redirect.py:_pipe_relay():119] relay done saw last write: stdout
+2021-04-07 22:03:20,166 INFO    stdout    :912254 [redirect.py:_pipe_relay():135] relay done done: stdout
+2021-04-07 22:03:20,166 INFO    MainThread:912254 [redirect.py:_stop():276] _stop joined: stdout
+2021-04-07 22:03:20,167 INFO    MainThread:912254 [redirect.py:_stop():278] _stop rd closed: stdout
+2021-04-07 22:03:20,167 INFO    MainThread:912254 [redirect.py:uninstall():219] uninstall done
+2021-04-07 22:03:20,167 INFO    MainThread:912254 [redirect.py:uninstall():215] uninstall start
+2021-04-07 22:03:20,167 INFO    MainThread:912254 [redirect.py:_stop():264] _stop: stderr
+2021-04-07 22:03:20,168 INFO    MainThread:912254 [redirect.py:_stop():270] _stop closed: stderr
+2021-04-07 22:03:20,168 INFO    stderr    :912254 [redirect.py:_pipe_relay():119] relay done saw last write: stderr
+2021-04-07 22:03:20,168 INFO    stderr    :912254 [redirect.py:_pipe_relay():135] relay done done: stderr
+2021-04-07 22:03:20,169 INFO    MainThread:912254 [redirect.py:_stop():276] _stop joined: stderr
+2021-04-07 22:03:20,169 INFO    MainThread:912254 [redirect.py:_stop():278] _stop rd closed: stderr
+2021-04-07 22:03:20,169 INFO    MainThread:912254 [redirect.py:uninstall():219] uninstall done
+2021-04-07 22:03:20,177 INFO    MainThread:912254 [wandb_run.py:_wait_for_finish():1349] got exit ret: uuid: "b55ba510e14745eab1e4298342625857"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 1
+    }
+    pusher_stats {
+      uploaded_bytes: 1467
+      total_bytes: 1467
+    }
+  }
+}
+
+2021-04-07 22:03:22,188 INFO    MainThread:912254 [wandb_run.py:_wait_for_finish():1349] got exit ret: uuid: "b0227f4e57bd416cb862c2c7a5daf5fe"
+response {
+  poll_exit_response {
+    done: true
+    exit_result {
+    }
+    file_counts {
+      wandb_count: 5
+    }
+    pusher_stats {
+      uploaded_bytes: 15952
+      total_bytes: 15952
+    }
+  }
+}
+
+2021-04-07 22:03:23,913 INFO    MainThread:912254 [wandb_run.py:_show_files():1543] logging synced files
+2021-04-07 22:03:23,918 INFO    MainThread:912254 [internal.py:handle_exit():137] Internal process exited

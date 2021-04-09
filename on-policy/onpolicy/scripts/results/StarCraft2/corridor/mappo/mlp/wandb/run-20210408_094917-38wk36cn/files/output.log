@@ -1,0 +1,342 @@
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 24221 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-uu42w3p5/'
+Version: B70326 (SC2.2018Season4)
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 20069 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-q9hykp4r/'
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 19606 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-8tve1he1/'
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 23149 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-q4nlyahj/'
+Version: B70326 (SC2.2018Season4)
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 22211 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-6lsorslf/'
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 18311 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-vxaztp74/'
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 22331 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-yg62dgv5/'
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 16946 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-sub021sk/'
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Startup Phase 1 complete
+Starting up...
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:16946
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:20069
+Listening on: 127.0.0.1:22211
+Startup Phase 3 complete. Ready for commands.
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:24221
+Listening on: 127.0.0.1:23149
+Startup Phase 3 complete. Ready for commands.
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:18311
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:22331
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:19606
+Startup Phase 3 complete. Ready for commands.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 4
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Game has started.
+Sending ResponseJoinGame
+Sending ResponseJoinGame
+Game has started.
+Game has started.
+Sending ResponseJoinGame
+Sending ResponseJoinGame
+Game has started.
+Game has started.
+Sending ResponseJoinGame
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Process Process-7:
+Process Process-9:
+Process Process-2:
+Process Process-8:
+Process Process-3:
+Process Process-6:
+Process Process-5:
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 304, in shareworker
+    cmd, data = remote.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 304, in shareworker
+    cmd, data = remote.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 304, in shareworker
+    cmd, data = remote.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+Traceback (most recent call last):
+KeyboardInterrupt
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 304, in shareworker
+    cmd, data = remote.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 304, in shareworker
+    cmd, data = remote.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 304, in shareworker
+    cmd, data = remote.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 304, in shareworker
+    cmd, data = remote.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Process Process-4:
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 304, in shareworker
+    cmd, data = remote.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "train/train_smac.py", line 175, in <module>
+    main(sys.argv[1:])
+  File "train/train_smac.py", line 160, in main
+    runner.run()
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/runner/shared/smac_runner.py", line 70, in run
+    train_infos = self.train()
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/runner/shared/base_runner.py", line 124, in train
+    train_infos = self.trainer.train(self.buffer)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/algorithms/r_mappo/r_mappo.py", line 233, in train
+    for sample in data_generator:
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/utils/shared_buffer.py", line 280, in feed_forward_generator
+    share_obs_batch = share_obs[indices]
+KeyboardInterrupt

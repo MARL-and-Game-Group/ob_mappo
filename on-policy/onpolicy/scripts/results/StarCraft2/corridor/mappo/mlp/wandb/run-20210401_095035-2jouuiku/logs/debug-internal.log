@@ -1,0 +1,37 @@
+2021-04-01 09:50:36,458 INFO    MainThread:98615 [internal.py:wandb_internal():62] W&B internal server running at pid: 98615
+2021-04-01 09:50:36,461 INFO    WriterThread:98615 [datastore.py:open_for_write():76] open: /home/menglh/rlproj/tmp/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210401_095035-2jouuiku/run-2jouuiku.wandb
+2021-04-01 09:50:36,461 DEBUG   HandlerThread:98615 [handler.py:handle_request():54] handle_request: check_version
+2021-04-01 09:50:36,463 DEBUG   SenderThread:98615 [sender.py:send():88] send: header
+2021-04-01 09:50:36,463 DEBUG   SenderThread:98615 [sender.py:send():88] send: request
+2021-04-01 09:50:36,463 DEBUG   SenderThread:98615 [sender.py:send_request():97] send_request: check_version
+2021-04-01 09:50:36,467 DEBUG   Thread-4  :98615 [connectionpool.py:_new_conn():823] Starting new HTTPS connection (1): pypi.org:443
+2021-04-01 09:50:37,049 DEBUG   Thread-4  :98615 [connectionpool.py:_make_request():393] https://pypi.org:443 "GET /pypi/wandb/json HTTP/1.1" 200 55640
+2021-04-01 09:50:37,254 DEBUG   SenderThread:98615 [sender.py:send():88] send: run
+2021-04-01 09:50:37,279 DEBUG   SenderThread:98615 [cmd.py:execute():719] Popen(['git', 'cat-file', '--batch-check'], cwd=/home/menglh/rlproj/tmp/on-policy, universal_newlines=False, shell=None, istream=<valid stream>)
+2021-04-01 09:50:37,295 DEBUG   SenderThread:98615 [connectionpool.py:_new_conn():823] Starting new HTTPS connection (1): api.wandb.ai:443
+2021-04-01 09:50:37,681 DEBUG   SenderThread:98615 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2021-04-01 09:50:37,692 INFO    SenderThread:98615 [dir_watcher.py:__init__():167] watching files in: /home/menglh/rlproj/tmp/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210401_095035-2jouuiku/files
+2021-04-01 09:50:37,692 INFO    SenderThread:98615 [sender.py:_start_run_threads():464] run started: 2jouuiku with start time 1617241835
+2021-04-01 09:50:37,708 DEBUG   SenderThread:98615 [sender.py:send():88] send: summary
+2021-04-01 09:50:37,709 DEBUG   HandlerThread:98615 [handler.py:handle_request():54] handle_request: run_start
+2021-04-01 09:50:37,710 INFO    SenderThread:98615 [sender.py:_save_file():542] saving file wandb-summary.json with policy end
+2021-04-01 09:50:37,726 DEBUG   HandlerThread:98615 [cmd.py:execute():719] Popen(['git', 'cat-file', '--batch-check'], cwd=/home/menglh/rlproj/tmp/on-policy, universal_newlines=False, shell=None, istream=<valid stream>)
+2021-04-01 09:50:37,735 DEBUG   HandlerThread:98615 [cmd.py:execute():719] Popen(['git', 'rev-parse', '--show-toplevel'], cwd=/home/menglh/rlproj/tmp/on-policy, universal_newlines=False, shell=None, istream=None)
+2021-04-01 09:50:37,801 DEBUG   SenderThread:98615 [sender.py:send():88] send: files
+2021-04-01 09:50:37,802 INFO    SenderThread:98615 [sender.py:_save_file():542] saving file wandb-metadata.json with policy now
+2021-04-01 09:50:37,809 DEBUG   HandlerThread:98615 [handler.py:handle_request():54] handle_request: status
+2021-04-01 09:50:37,811 DEBUG   SenderThread:98615 [sender.py:send():88] send: request
+2021-04-01 09:50:37,812 DEBUG   SenderThread:98615 [sender.py:send_request():97] send_request: status
+2021-04-01 09:50:37,812 DEBUG   Thread-11 :98615 [connectionpool.py:_new_conn():823] Starting new HTTPS connection (1): api.wandb.ai:443
+2021-04-01 09:50:37,817 DEBUG   SenderThread:98615 [connectionpool.py:_new_conn():823] Starting new HTTPS connection (1): api.wandb.ai:443
+2021-04-01 09:50:37,989 WARNING MainThread:98615 [internal.py:wandb_internal():116] Internal process interrupt: 1
+2021-04-01 09:50:38,179 WARNING MainThread:98615 [internal.py:wandb_internal():116] Internal process interrupt: 2
+2021-04-01 09:50:38,179 ERROR   MainThread:98615 [internal.py:wandb_internal():119] Internal process interrupted.
+2021-04-01 09:50:38,270 DEBUG   SenderThread:98615 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2021-04-01 09:50:38,275 INFO    SenderThread:98615 [sender.py:finish():583] shutting down sender
+2021-04-01 09:50:38,275 INFO    SenderThread:98615 [dir_watcher.py:finish():280] shutting down directory watcher
+2021-04-01 09:50:38,461 INFO    HandlerThread:98615 [handler.py:finish():267] shutting down handler
+2021-04-01 09:50:38,462 INFO    WriterThread:98615 [datastore.py:close():257] close: /home/menglh/rlproj/tmp/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210401_095035-2jouuiku/run-2jouuiku.wandb
+2021-04-01 09:50:38,512 DEBUG   Thread-11 :98615 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2021-04-01 09:50:38,519 DEBUG   Thread-11 :98615 [connectionpool.py:_new_conn():823] Starting new HTTPS connection (1): storage.googleapis.com:443
+2021-04-01 09:50:38,532 INFO    MainThread:98615 [internal.py:handle_exit():137] Internal process exited

@@ -1,0 +1,668 @@
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 23506 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-gm8i3buy/'
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 23957 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-x0ad002z/'
+Version: B70326 (SC2.2018Season4)
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 21255 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-nuysguq9/'
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 18508 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-ei99qqrc/'
+Starting up...
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 16519 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-3qc9wyhd/'
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 16487 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-h4sm58ji/'
+Version: B70326 (SC2.2018Season4)
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 16571 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-k9wwqgz6/'
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 22279 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-q08b49ax/'
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Startup Phase 1 complete
+Starting up...
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:23506
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:16571
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:23957
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:18508
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:16519
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:16487
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:22279
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:21255
+Startup Phase 3 complete. Ready for commands.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Next launch phase started: 2
+Next launch phase started: 3
+Entering load game phase.
+Launching next game.
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Game has started.
+Game has started.
+Sending ResponseJoinGame
+Sending ResponseJoinGame
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Game has started.
+Game has started.
+Sending ResponseJoinGame
+Sending ResponseJoinGame
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+
+ Map 3m Algo mappo Exp mlp updates 0/3125 episodes, total num timesteps 3200/10000000, FPS 480.
+
+incre win rate is 0.0.
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 17862 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-hsj9n9z2/'
+Starting up...
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:17862
+Startup Phase 3 complete. Ready for commands.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Sending ResponseJoinGame
+eval win rate is 0.5.
+
+ Map 3m Algo mappo Exp mlp updates 5/3125 episodes, total num timesteps 19200/10000000, FPS 348.
+
+incre win rate is 0.0.
+
+ Map 3m Algo mappo Exp mlp updates 10/3125 episodes, total num timesteps 35200/10000000, FPS 393.
+
+incre win rate is 0.0.
+
+ Map 3m Algo mappo Exp mlp updates 15/3125 episodes, total num timesteps 51200/10000000, FPS 412.
+
+incre win rate is 0.014251781472684086.
+
+ Map 3m Algo mappo Exp mlp updates 20/3125 episodes, total num timesteps 67200/10000000, FPS 422.
+
+incre win rate is 0.07008760951188986.
+
+ Map 3m Algo mappo Exp mlp updates 25/3125 episodes, total num timesteps 83200/10000000, FPS 431.
+
+incre win rate is 0.17890520694259013.
+eval win rate is 0.5.
+
+ Map 3m Algo mappo Exp mlp updates 30/3125 episodes, total num timesteps 99200/10000000, FPS 427.
+
+incre win rate is 0.2652777777777778.
+
+ Map 3m Algo mappo Exp mlp updates 35/3125 episodes, total num timesteps 115200/10000000, FPS 435.
+
+incre win rate is 0.3101983002832861.
+
+ Map 3m Algo mappo Exp mlp updates 40/3125 episodes, total num timesteps 131200/10000000, FPS 440.
+
+incre win rate is 0.3651026392961877.
+
+ Map 3m Algo mappo Exp mlp updates 45/3125 episodes, total num timesteps 147200/10000000, FPS 444.
+
+incre win rate is 0.40059347181008903.
+
+ Map 3m Algo mappo Exp mlp updates 50/3125 episodes, total num timesteps 163200/10000000, FPS 447.
+
+incre win rate is 0.4573529411764706.
+eval win rate is 0.53125.
+
+ Map 3m Algo mappo Exp mlp updates 55/3125 episodes, total num timesteps 179200/10000000, FPS 443.
+
+incre win rate is 0.49632892804698975.
+
+ Map 3m Algo mappo Exp mlp updates 60/3125 episodes, total num timesteps 195200/10000000, FPS 447.
+
+incre win rate is 0.5203619909502263.
+
+ Map 3m Algo mappo Exp mlp updates 65/3125 episodes, total num timesteps 211200/10000000, FPS 449.
+
+incre win rate is 0.5703592814371258.
+
+ Map 3m Algo mappo Exp mlp updates 70/3125 episodes, total num timesteps 227200/10000000, FPS 452.
+
+incre win rate is 0.5954545454545455.
+
+ Map 3m Algo mappo Exp mlp updates 75/3125 episodes, total num timesteps 243200/10000000, FPS 454.
+
+incre win rate is 0.6500754147812972.
+eval win rate is 0.8125.
+
+ Map 3m Algo mappo Exp mlp updates 80/3125 episodes, total num timesteps 259200/10000000, FPS 451.
+
+incre win rate is 0.6905829596412556.
+
+ Map 3m Algo mappo Exp mlp updates 85/3125 episodes, total num timesteps 275200/10000000, FPS 452.
+
+incre win rate is 0.6944024205748865.
+
+ Map 3m Algo mappo Exp mlp updates 90/3125 episodes, total num timesteps 291200/10000000, FPS 454.
+
+incre win rate is 0.7593423019431988.
+
+ Map 3m Algo mappo Exp mlp updates 95/3125 episodes, total num timesteps 307200/10000000, FPS 455.
+
+incre win rate is 0.7687776141384389.
+
+ Map 3m Algo mappo Exp mlp updates 100/3125 episodes, total num timesteps 323200/10000000, FPS 457.
+
+incre win rate is 0.7537091988130564.
+eval win rate is 0.6875.
+
+ Map 3m Algo mappo Exp mlp updates 105/3125 episodes, total num timesteps 339200/10000000, FPS 455.
+
+incre win rate is 0.7496229260935143.
+
+ Map 3m Algo mappo Exp mlp updates 110/3125 episodes, total num timesteps 355200/10000000, FPS 456.
+
+incre win rate is 0.7622585438335809.
+
+ Map 3m Algo mappo Exp mlp updates 115/3125 episodes, total num timesteps 371200/10000000, FPS 457.
+
+incre win rate is 0.7630402384500745.
+
+ Map 3m Algo mappo Exp mlp updates 120/3125 episodes, total num timesteps 387200/10000000, FPS 458.
+
+incre win rate is 0.7994186046511628.
+
+ Map 3m Algo mappo Exp mlp updates 125/3125 episodes, total num timesteps 403200/10000000, FPS 459.
+
+incre win rate is 0.8032069970845481.
+eval win rate is 0.78125.
+
+ Map 3m Algo mappo Exp mlp updates 130/3125 episodes, total num timesteps 419200/10000000, FPS 457.
+
+incre win rate is 0.8441558441558441.
+
+ Map 3m Algo mappo Exp mlp updates 135/3125 episodes, total num timesteps 435200/10000000, FPS 457.
+
+incre win rate is 0.8851063829787233.
+
+ Map 3m Algo mappo Exp mlp updates 140/3125 episodes, total num timesteps 451200/10000000, FPS 458.
+
+incre win rate is 0.871977240398293.
+
+ Map 3m Algo mappo Exp mlp updates 145/3125 episodes, total num timesteps 467200/10000000, FPS 458.
+
+incre win rate is 0.8985915492957747.
+
+ Map 3m Algo mappo Exp mlp updates 150/3125 episodes, total num timesteps 483200/10000000, FPS 459.
+
+incre win rate is 0.9046283309957924.
+eval win rate is 0.90625.
+
+ Map 3m Algo mappo Exp mlp updates 155/3125 episodes, total num timesteps 499200/10000000, FPS 457.
+
+incre win rate is 0.8929577464788733.
+
+ Map 3m Algo mappo Exp mlp updates 160/3125 episodes, total num timesteps 515200/10000000, FPS 449.
+
+incre win rate is 0.9196675900277008.
+RequestQuit command received.
+Closing Application...
+unable to parse websocket frame.
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 16673 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-44pux5f_/'
+Starting up...
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:16673
+Startup Phase 3 complete. Ready for commands.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Sending ResponseJoinGame
+RequestQuit command received.
+Closing Application...
+unable to parse websocket frame.
+RequestQuit command received.
+Closing Application...
+unable to parse websocket frame.
+Version: B70326 (SC2.2018Season4)
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 22699 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-mn_dco6l/'
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 19747 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-01fids5m/'
+Starting up...
+Starting up...
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:19747
+Startup Phase 3 complete. Ready for commands.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Listening on: 127.0.0.1:22699
+Startup Phase 3 complete. Ready for commands.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+RequestQuit command received.
+Closing Application...
+unable to parse websocket frame.
+RequestQuit command received.
+Closing Application...
+unable to parse websocket frame.
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 21807 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-sjpxd4ob/'
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 20560 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-algz98x8/'
+Starting up...
+Starting up...
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:21807
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:20560
+Startup Phase 3 complete. Ready for commands.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Requesting to join a single player game
+Configuring interface options
+Next launch phase started: 3
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+RequestQuit command received.
+Closing Application...
+unable to parse websocket frame.
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 15224 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-ilb1q05r/'
+Starting up...
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:15224
+Startup Phase 3 complete. Ready for commands.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Sending ResponseJoinGame
+RequestQuit command received.
+Closing Application...
+RequestQuit command received.
+Closing Application...
+unable to parse websocket frame.
+unable to parse websocket frame.
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 18666 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-ambfy1qg/'
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 21592 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-gdlzejq3/'
+Starting up...
+Starting up...
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:21592
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:18666
+Startup Phase 3 complete. Ready for commands.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+
+ Map 3m Algo mappo Exp mlp updates 165/3125 episodes, total num timesteps 531200/10000000, FPS 433.
+
+incre win rate is 0.9187675070028011.
+
+ Map 3m Algo mappo Exp mlp updates 170/3125 episodes, total num timesteps 547200/10000000, FPS 434.
+
+incre win rate is 0.9243466299862448.
+
+ Map 3m Algo mappo Exp mlp updates 175/3125 episodes, total num timesteps 563200/10000000, FPS 435.
+
+incre win rate is 0.9275956284153005.
+eval win rate is 0.96875.
+
+ Map 3m Algo mappo Exp mlp updates 180/3125 episodes, total num timesteps 579200/10000000, FPS 435.
+
+incre win rate is 0.9286694101508917.
+
+ Map 3m Algo mappo Exp mlp updates 185/3125 episodes, total num timesteps 595200/10000000, FPS 436.
+
+incre win rate is 0.921161825726141.
+
+ Map 3m Algo mappo Exp mlp updates 190/3125 episodes, total num timesteps 611200/10000000, FPS 437.
+
+incre win rate is 0.9357045143638851.
+
+ Map 3m Algo mappo Exp mlp updates 195/3125 episodes, total num timesteps 627200/10000000, FPS 429.
+
+incre win rate is 0.9312242090784044.
+
+ Map 3m Algo mappo Exp mlp updates 200/3125 episodes, total num timesteps 643200/10000000, FPS 430.
+
+incre win rate is 0.9370725034199726.
+eval win rate is 0.9375.
+
+ Map 3m Algo mappo Exp mlp updates 205/3125 episodes, total num timesteps 659200/10000000, FPS 430.
+
+incre win rate is 0.9429347826086957.
+
+ Map 3m Algo mappo Exp mlp updates 210/3125 episodes, total num timesteps 675200/10000000, FPS 431.
+
+incre win rate is 0.9398084815321477.
+
+ Map 3m Algo mappo Exp mlp updates 215/3125 episodes, total num timesteps 691200/10000000, FPS 432.
+
+incre win rate is 0.952054794520548.
+
+ Map 3m Algo mappo Exp mlp updates 220/3125 episodes, total num timesteps 707200/10000000, FPS 433.
+
+incre win rate is 0.9383561643835616.
+
+ Map 3m Algo mappo Exp mlp updates 225/3125 episodes, total num timesteps 723200/10000000, FPS 433.
+
+incre win rate is 0.9368131868131868.
+eval win rate is 0.96875.
+
+ Map 3m Algo mappo Exp mlp updates 230/3125 episodes, total num timesteps 739200/10000000, FPS 433.
+
+incre win rate is 0.9475862068965517.
+
+ Map 3m Algo mappo Exp mlp updates 235/3125 episodes, total num timesteps 755200/10000000, FPS 434.
+
+incre win rate is 0.941747572815534.

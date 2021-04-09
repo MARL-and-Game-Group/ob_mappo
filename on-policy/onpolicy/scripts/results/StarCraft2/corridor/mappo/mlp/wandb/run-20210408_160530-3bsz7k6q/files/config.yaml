@@ -1,0 +1,232 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.10.5
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.6.13
+add_agent_id:
+  desc: null
+  value: false
+add_center_xy:
+  desc: null
+  value: true
+add_distance_state:
+  desc: null
+  value: false
+add_enemy_action_state:
+  desc: null
+  value: false
+add_local_obs:
+  desc: null
+  value: false
+add_move_state:
+  desc: null
+  value: false
+add_visible_state:
+  desc: null
+  value: false
+add_xy_state:
+  desc: null
+  value: false
+algorithm_name:
+  desc: null
+  value: mappo
+clip_param:
+  desc: null
+  value: 0.2
+critic_lr:
+  desc: null
+  value: 0.0005
+cuda:
+  desc: null
+  value: true
+cuda_deterministic:
+  desc: null
+  value: true
+data_chunk_length:
+  desc: null
+  value: 10
+entropy_coef:
+  desc: null
+  value: 0.01
+env_name:
+  desc: null
+  value: StarCraft2
+episode_length:
+  desc: null
+  value: 400
+eval_episodes:
+  desc: null
+  value: 32
+eval_interval:
+  desc: null
+  value: 25
+experiment_name:
+  desc: null
+  value: mlp
+gae_lambda:
+  desc: null
+  value: 0.95
+gain:
+  desc: null
+  value: 0.01
+gamma:
+  desc: null
+  value: 0.99
+hidden_size:
+  desc: null
+  value: 64
+huber_delta:
+  desc: null
+  value: 10.0
+ifi:
+  desc: null
+  value: 0.1
+layer_N:
+  desc: null
+  value: 1
+log_interval:
+  desc: null
+  value: 5
+lr:
+  desc: null
+  value: 0.0005
+map_name:
+  desc: null
+  value: corridor
+max_grad_norm:
+  desc: null
+  value: 10.0
+model_dir:
+  desc: null
+  value: null
+n_eval_rollout_threads:
+  desc: null
+  value: 1
+n_render_rollout_threads:
+  desc: null
+  value: 1
+n_rollout_threads:
+  desc: null
+  value: 8
+n_training_threads:
+  desc: null
+  value: 127
+num_env_steps:
+  desc: null
+  value: 10000000
+num_mini_batch:
+  desc: null
+  value: 1
+opti_eps:
+  desc: null
+  value: 1.0e-05
+ppo_epoch:
+  desc: null
+  value: 5
+recurrent_N:
+  desc: null
+  value: 1
+render_episodes:
+  desc: null
+  value: 5
+save_gifs:
+  desc: null
+  value: false
+save_interval:
+  desc: null
+  value: 1
+seed:
+  desc: null
+  value: 1
+share_policy:
+  desc: null
+  value: true
+stacked_frames:
+  desc: null
+  value: 1
+use_ReLU:
+  desc: null
+  value: true
+use_centralized_V:
+  desc: null
+  value: true
+use_clipped_value_loss:
+  desc: null
+  value: true
+use_eval:
+  desc: null
+  value: true
+use_feature_normalization:
+  desc: null
+  value: true
+use_gae:
+  desc: null
+  value: true
+use_huber_loss:
+  desc: null
+  value: true
+use_linear_lr_decay:
+  desc: null
+  value: false
+use_max_grad_norm:
+  desc: null
+  value: true
+use_mustalive:
+  desc: null
+  value: true
+use_naive_recurrent_policy:
+  desc: null
+  value: false
+use_ob:
+  desc: null
+  value: true
+use_obs_instead_of_state:
+  desc: null
+  value: false
+use_orthogonal:
+  desc: null
+  value: true
+use_policy_active_masks:
+  desc: null
+  value: true
+use_popart:
+  desc: null
+  value: true
+use_proper_time_limits:
+  desc: null
+  value: false
+use_q_head:
+  desc: null
+  value: true
+use_recurrent_policy:
+  desc: null
+  value: false
+use_render:
+  desc: null
+  value: false
+use_stacked_frames:
+  desc: null
+  value: false
+use_state_agent:
+  desc: null
+  value: true
+use_value_active_masks:
+  desc: null
+  value: false
+use_wandb:
+  desc: null
+  value: true
+user_name:
+  desc: null
+  value: reinholdm
+value_loss_coef:
+  desc: null
+  value: 1
+weight_decay:
+  desc: null
+  value: 0

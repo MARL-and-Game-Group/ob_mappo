@@ -1,0 +1,843 @@
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 24614 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-7294ah7r/'
+Version: B70326 (SC2.2018Season4)
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 18259 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-po_jin3f/'
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 16595 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-tl34tb86/'
+Version: B70326 (SC2.2018Season4)
+Version: B70326 (SC2.2018Season4)
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 23834 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-81ju_3kb/'
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 24947 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-0bt1r86y/'
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 17987 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-q1v6aiiu/'
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 17411 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-qxlu7ipx/'
+Version: B70326 (SC2.2018Season4)
+Starting up...
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 23825 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-7hlnos5t/'
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Startup Phase 1 complete
+Starting up...
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:24614
+Startup Phase 3 complete. Ready for commands.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:16595
+Listening on: 127.0.0.1:24947
+Listening on: 127.0.0.1:23834
+Listening on: 127.0.0.1:18259
+Listening on: 127.0.0.1:23825
+Listening on: 127.0.0.1:17987
+Listening on: 127.0.0.1:17411
+Startup Phase 3 complete. Ready for commands.
+Startup Phase 3 complete. Ready for commands.
+Startup Phase 3 complete. Ready for commands.
+Startup Phase 3 complete. Ready for commands.
+Startup Phase 3 complete. Ready for commands.
+Startup Phase 3 complete. Ready for commands.
+Startup Phase 3 complete. Ready for commands.
+Requesting to join a single player game
+Requesting to join a single player game
+Configuring interface options
+Configuring interface options
+Configure: raw interface enabled
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Configure: render interface disabled
+Requesting to join a single player game
+Requesting to join a single player game
+Configuring interface options
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: raw interface enabled
+Configure: score interface disabled
+Configure: feature layer interface disabled
+Configure: render interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Requesting to join a single player game
+Configuring interface options
+Entering load game phase.
+Requesting to join a single player game
+Configure: raw interface enabled
+Configuring interface options
+Entering load game phase.
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Launching next game.
+Configure: render interface disabled
+Launching next game.
+Entering load game phase.
+Launching next game.
+Entering load game phase.
+Launching next game.
+Entering load game phase.
+Launching next game.
+Entering load game phase.
+Launching next game.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Next launch phase started: 4
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Next launch phase started: 4
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Process Process-2:
+Process Process-4:
+Process Process-8:
+Process Process-7:
+Process Process-9:
+Process Process-5:
+Process Process-6:
+Process Process-3:
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_socket.py", line 81, in recv
+    bytes_ = sock.recv(bufsize)
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+socket.timeout: timed out
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_socket.py", line 81, in recv
+    bytes_ = sock.recv(bufsize)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_socket.py", line 81, in recv
+    bytes_ = sock.recv(bufsize)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_socket.py", line 81, in recv
+    bytes_ = sock.recv(bufsize)
+socket.timeout: timed out
+socket.timeout: timed out
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_socket.py", line 81, in recv
+    bytes_ = sock.recv(bufsize)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_socket.py", line 81, in recv
+    bytes_ = sock.recv(bufsize)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_socket.py", line 81, in recv
+    bytes_ = sock.recv(bufsize)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_socket.py", line 81, in recv
+    bytes_ = sock.recv(bufsize)
+
+During handling of the above exception, another exception occurred:
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+Traceback (most recent call last):
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 66, in catch_websocket_connection_errors
+    yield
+socket.timeout: timed out
+socket.timeout: timed out
+socket.timeout: timed out
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 183, in _read
+    response_str = self._sock.recv()
+
+During handling of the above exception, another exception occurred:
+
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 302, in recv
+    opcode, data = self.recv_data()
+
+During handling of the above exception, another exception occurred:
+
+
+During handling of the above exception, another exception occurred:
+
+socket.timeout: timed out
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 319, in recv_data
+    opcode, frame = self.recv_data_frame(control_frame)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 332, in recv_data_frame
+    frame = self.recv_frame()
+
+During handling of the above exception, another exception occurred:
+
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 366, in recv_frame
+    return self.frame_buffer.recv_frame()
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 361, in recv_frame
+    self.recv_header()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 309, in recv_header
+    header = self.recv_strict(2)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 66, in catch_websocket_connection_errors
+    yield
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 396, in recv_strict
+    bytes_ = self.recv(min(16384, shortage))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 183, in _read
+    response_str = self._sock.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 66, in catch_websocket_connection_errors
+    yield
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 441, in _recv
+    return recv(self.sock, bufsize)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 183, in _read
+    response_str = self._sock.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_socket.py", line 84, in recv
+    raise WebSocketTimeoutException(message)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 302, in recv
+    opcode, data = self.recv_data()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 66, in catch_websocket_connection_errors
+    yield
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 302, in recv
+    opcode, data = self.recv_data()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 66, in catch_websocket_connection_errors
+    yield
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 319, in recv_data
+    opcode, frame = self.recv_data_frame(control_frame)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 66, in catch_websocket_connection_errors
+    yield
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 183, in _read
+    response_str = self._sock.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 319, in recv_data
+    opcode, frame = self.recv_data_frame(control_frame)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 66, in catch_websocket_connection_errors
+    yield
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 183, in _read
+    response_str = self._sock.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 332, in recv_data_frame
+    frame = self.recv_frame()
+websocket._exceptions.WebSocketTimeoutException: timed out
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 183, in _read
+    response_str = self._sock.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 302, in recv
+    opcode, data = self.recv_data()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 332, in recv_data_frame
+    frame = self.recv_frame()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 302, in recv
+    opcode, data = self.recv_data()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 183, in _read
+    response_str = self._sock.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 366, in recv_frame
+    return self.frame_buffer.recv_frame()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 302, in recv
+    opcode, data = self.recv_data()
+
+During handling of the above exception, another exception occurred:
+
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 319, in recv_data
+    opcode, frame = self.recv_data_frame(control_frame)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 366, in recv_frame
+    return self.frame_buffer.recv_frame()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 319, in recv_data
+    opcode, frame = self.recv_data_frame(control_frame)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 302, in recv
+    opcode, data = self.recv_data()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 361, in recv_frame
+    self.recv_header()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 319, in recv_data
+    opcode, frame = self.recv_data_frame(control_frame)
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 332, in recv_data_frame
+    frame = self.recv_frame()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 332, in recv_data_frame
+    frame = self.recv_frame()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 361, in recv_frame
+    self.recv_header()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 319, in recv_data
+    opcode, frame = self.recv_data_frame(control_frame)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 309, in recv_header
+    header = self.recv_strict(2)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 332, in recv_data_frame
+    frame = self.recv_frame()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 366, in recv_frame
+    return self.frame_buffer.recv_frame()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 366, in recv_frame
+    return self.frame_buffer.recv_frame()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 309, in recv_header
+    header = self.recv_strict(2)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 332, in recv_data_frame
+    frame = self.recv_frame()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 396, in recv_strict
+    bytes_ = self.recv(min(16384, shortage))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 366, in recv_frame
+    return self.frame_buffer.recv_frame()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 361, in recv_frame
+    self.recv_header()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 361, in recv_frame
+    self.recv_header()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 396, in recv_strict
+    bytes_ = self.recv(min(16384, shortage))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 366, in recv_frame
+    return self.frame_buffer.recv_frame()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 441, in _recv
+    return recv(self.sock, bufsize)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 361, in recv_frame
+    self.recv_header()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 309, in recv_header
+    header = self.recv_strict(2)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 66, in catch_websocket_connection_errors
+    yield
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 309, in recv_header
+    header = self.recv_strict(2)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 441, in _recv
+    return recv(self.sock, bufsize)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 361, in recv_frame
+    self.recv_header()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_socket.py", line 84, in recv
+    raise WebSocketTimeoutException(message)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 309, in recv_header
+    header = self.recv_strict(2)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 396, in recv_strict
+    bytes_ = self.recv(min(16384, shortage))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 396, in recv_strict
+    bytes_ = self.recv(min(16384, shortage))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_socket.py", line 84, in recv
+    raise WebSocketTimeoutException(message)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 309, in recv_header
+    header = self.recv_strict(2)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 183, in _read
+    response_str = self._sock.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 151, in send
+    res = self.send_req(req)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 396, in recv_strict
+    bytes_ = self.recv(min(16384, shortage))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 441, in _recv
+    return recv(self.sock, bufsize)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 441, in _recv
+    return recv(self.sock, bufsize)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 396, in recv_strict
+    bytes_ = self.recv(min(16384, shortage))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 131, in send_req
+    return self.read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 441, in _recv
+    return recv(self.sock, bufsize)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_socket.py", line 84, in recv
+    raise WebSocketTimeoutException(message)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_socket.py", line 84, in recv
+    raise WebSocketTimeoutException(message)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 302, in recv
+    opcode, data = self.recv_data()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 441, in _recv
+    return recv(self.sock, bufsize)
+websocket._exceptions.WebSocketTimeoutException: timed out
+websocket._exceptions.WebSocketTimeoutException: timed out
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_socket.py", line 84, in recv
+    raise WebSocketTimeoutException(message)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_socket.py", line 84, in recv
+    raise WebSocketTimeoutException(message)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 102, in read
+    response = self._read()
+
+During handling of the above exception, another exception occurred:
+
+
+During handling of the above exception, another exception occurred:
+
+websocket._exceptions.WebSocketTimeoutException: timed out
+websocket._exceptions.WebSocketTimeoutException: timed out
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 319, in recv_data
+    opcode, frame = self.recv_data_frame(control_frame)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 183, in _read
+    response_str = self._sock.recv()
+Traceback (most recent call last):
+Traceback (most recent call last):
+websocket._exceptions.WebSocketTimeoutException: timed out
+
+During handling of the above exception, another exception occurred:
+
+
+During handling of the above exception, another exception occurred:
+
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/contextlib.py", line 99, in __exit__
+    self.gen.throw(type, value, traceback)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 332, in recv_data_frame
+    frame = self.recv_frame()
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 71, in catch_websocket_connection_errors
+    raise ConnectionError("Websocket timed out.")
+websocket._exceptions.WebSocketTimeoutException: timed out
+Traceback (most recent call last):
+
+During handling of the above exception, another exception occurred:
+
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 366, in recv_frame
+    return self.frame_buffer.recv_frame()
+pysc2.lib.protocol.ConnectionError: Websocket timed out.
+Traceback (most recent call last):
+
+During handling of the above exception, another exception occurred:
+
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 361, in recv_frame
+    self.recv_header()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 151, in send
+    res = self.send_req(req)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 151, in send
+    res = self.send_req(req)
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 131, in send_req
+    return self.read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 131, in send_req
+    return self.read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 309, in recv_header
+    header = self.recv_strict(2)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 151, in send
+    res = self.send_req(req)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 151, in send
+    res = self.send_req(req)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 151, in send
+    res = self.send_req(req)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 131, in send_req
+    return self.read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 131, in send_req
+    return self.read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 102, in read
+    response = self._read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 396, in recv_strict
+    bytes_ = self.recv(min(16384, shortage))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 131, in send_req
+    return self.read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 183, in _read
+    response_str = self._sock.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 102, in read
+    response = self._read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 441, in _recv
+    return recv(self.sock, bufsize)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 102, in read
+    response = self._read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 102, in read
+    response = self._read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/contextlib.py", line 99, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 183, in _read
+    response_str = self._sock.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 151, in send
+    res = self.send_req(req)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 183, in _read
+    response_str = self._sock.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 102, in read
+    response = self._read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 183, in _read
+    response_str = self._sock.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 71, in catch_websocket_connection_errors
+    raise ConnectionError("Websocket timed out.")
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/contextlib.py", line 99, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_socket.py", line 84, in recv
+    raise WebSocketTimeoutException(message)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 131, in send_req
+    return self.read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/contextlib.py", line 99, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 183, in _read
+    response_str = self._sock.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/contextlib.py", line 99, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 71, in catch_websocket_connection_errors
+    raise ConnectionError("Websocket timed out.")
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 71, in catch_websocket_connection_errors
+    raise ConnectionError("Websocket timed out.")
+pysc2.lib.protocol.ConnectionError: Websocket timed out.
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/contextlib.py", line 99, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 71, in catch_websocket_connection_errors
+    raise ConnectionError("Websocket timed out.")
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 102, in read
+    response = self._read()
+
+During handling of the above exception, another exception occurred:
+
+pysc2.lib.protocol.ConnectionError: Websocket timed out.
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 71, in catch_websocket_connection_errors
+    raise ConnectionError("Websocket timed out.")
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+pysc2.lib.protocol.ConnectionError: Websocket timed out.
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 183, in _read
+    response_str = self._sock.recv()
+websocket._exceptions.WebSocketTimeoutException: timed out
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+
+During handling of the above exception, another exception occurred:
+
+pysc2.lib.protocol.ConnectionError: Websocket timed out.
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/contextlib.py", line 99, in __exit__
+    self.gen.throw(type, value, traceback)
+
+During handling of the above exception, another exception occurred:
+
+pysc2.lib.protocol.ConnectionError: Websocket timed out.
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 316, in shareworker
+    ob, s_ob, available_actions = env.reset()
+Traceback (most recent call last):
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+
+During handling of the above exception, another exception occurred:
+
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 388, in reset
+    self._launch()
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 71, in catch_websocket_connection_errors
+    raise ConnectionError("Websocket timed out.")
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 355, in _launch
+    self._controller.join_game(join)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 99, in _valid_status
+    return func(self, *args, **kwargs)
+pysc2.lib.protocol.ConnectionError: Websocket timed out.
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 74, in _check_error
+    return check_error(func(*args, **kwargs), error_enum)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+
+During handling of the above exception, another exception occurred:
+
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 209, in join_game
+    return self._client.send(join_game=req_join_game)
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 153, in send
+    raise ConnectionError("Error during %s: %s" % (name, e))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+pysc2.lib.protocol.ConnectionError: Error during join_game: Websocket timed out.
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 316, in shareworker
+    ob, s_ob, available_actions = env.reset()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 388, in reset
+    self._launch()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 151, in send
+    res = self.send_req(req)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 355, in _launch
+    self._controller.join_game(join)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 316, in shareworker
+    ob, s_ob, available_actions = env.reset()
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 316, in shareworker
+    ob, s_ob, available_actions = env.reset()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 99, in _valid_status
+    return func(self, *args, **kwargs)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 316, in shareworker
+    ob, s_ob, available_actions = env.reset()
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 316, in shareworker
+    ob, s_ob, available_actions = env.reset()
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 388, in reset
+    self._launch()
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 388, in reset
+    self._launch()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 131, in send_req
+    return self.read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 74, in _check_error
+    return check_error(func(*args, **kwargs), error_enum)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 388, in reset
+    self._launch()
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 388, in reset
+    self._launch()
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 355, in _launch
+    self._controller.join_game(join)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 355, in _launch
+    self._controller.join_game(join)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 355, in _launch
+    self._controller.join_game(join)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 355, in _launch
+    self._controller.join_game(join)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 99, in _valid_status
+    return func(self, *args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 99, in _valid_status
+    return func(self, *args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 209, in join_game
+    return self._client.send(join_game=req_join_game)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 99, in _valid_status
+    return func(self, *args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 99, in _valid_status
+    return func(self, *args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 74, in _check_error
+    return check_error(func(*args, **kwargs), error_enum)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 74, in _check_error
+    return check_error(func(*args, **kwargs), error_enum)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 74, in _check_error
+    return check_error(func(*args, **kwargs), error_enum)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 74, in _check_error
+    return check_error(func(*args, **kwargs), error_enum)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 153, in send
+    raise ConnectionError("Error during %s: %s" % (name, e))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 102, in read
+    response = self._read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 209, in join_game
+    return self._client.send(join_game=req_join_game)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 209, in join_game
+    return self._client.send(join_game=req_join_game)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 209, in join_game
+    return self._client.send(join_game=req_join_game)
+pysc2.lib.protocol.ConnectionError: Error during join_game: Websocket timed out.
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 183, in _read
+    response_str = self._sock.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 209, in join_game
+    return self._client.send(join_game=req_join_game)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 153, in send
+    raise ConnectionError("Error during %s: %s" % (name, e))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 153, in send
+    raise ConnectionError("Error during %s: %s" % (name, e))
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 316, in shareworker
+    ob, s_ob, available_actions = env.reset()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 153, in send
+    raise ConnectionError("Error during %s: %s" % (name, e))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 153, in send
+    raise ConnectionError("Error during %s: %s" % (name, e))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/contextlib.py", line 99, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 388, in reset
+    self._launch()
+pysc2.lib.protocol.ConnectionError: Error during join_game: Websocket timed out.
+pysc2.lib.protocol.ConnectionError: Error during join_game: Websocket timed out.
+pysc2.lib.protocol.ConnectionError: Error during join_game: Websocket timed out.
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 355, in _launch
+    self._controller.join_game(join)
+pysc2.lib.protocol.ConnectionError: Error during join_game: Websocket timed out.
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 71, in catch_websocket_connection_errors
+    raise ConnectionError("Websocket timed out.")
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 99, in _valid_status
+    return func(self, *args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 74, in _check_error
+    return check_error(func(*args, **kwargs), error_enum)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 209, in join_game
+    return self._client.send(join_game=req_join_game)
+pysc2.lib.protocol.ConnectionError: Websocket timed out.
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 153, in send
+    raise ConnectionError("Error during %s: %s" % (name, e))
+
+During handling of the above exception, another exception occurred:
+
+pysc2.lib.protocol.ConnectionError: Error during join_game: Websocket timed out.
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 316, in shareworker
+    ob, s_ob, available_actions = env.reset()
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 388, in reset
+    self._launch()
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 355, in _launch
+    self._controller.join_game(join)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 99, in _valid_status
+    return func(self, *args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 74, in _check_error
+    return check_error(func(*args, **kwargs), error_enum)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 209, in join_game
+    return self._client.send(join_game=req_join_game)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 153, in send
+    raise ConnectionError("Error during %s: %s" % (name, e))
+pysc2.lib.protocol.ConnectionError: Error during join_game: Websocket timed out.
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/code.py", line 91, in runcode
+    exec(code, self.locals)
+  File "<input>", line 1, in <module>
+  File "/home/menglh/.pycharm_helpers/pydev/_pydev_bundle/pydev_umd.py", line 197, in runfile
+    pydev_imports.execfile(filename, global_vars, local_vars)  # execute the script
+  File "/home/menglh/.pycharm_helpers/pydev/_pydev_imps/_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/scripts/train/train_smac.py", line 175, in <module>
+    main(sys.argv[1:])
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/scripts/train/train_smac.py", line 160, in main
+    runner.run()
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/runner/shared/smac_runner.py", line 17, in run
+    self.warmup()
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/runner/shared/smac_runner.py", line 108, in warmup
+    obs, share_obs, available_actions = self.envs.reset()
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 377, in reset
+    results = [remote.recv() for remote in self.remotes]
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 377, in <listcomp>
+    results = [remote.recv() for remote in self.remotes]
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 383, in _recv
+    raise EOFError
+EOFError
+Game has started.
+Game has started.
+Game has started.
+Game has started.
+Game has started.
+Game has started.
+Game has started.
+Game has started.
+Sending ResponseJoinGame
+Sending ResponseJoinGame
+Sending ResponseJoinGame
+Sending ResponseJoinGame
+Sending ResponseJoinGame
+Sending ResponseJoinGame
+Sending ResponseJoinGame
+Sending ResponseJoinGame

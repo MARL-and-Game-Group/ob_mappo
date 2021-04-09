@@ -1,0 +1,607 @@
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 24539 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-8fyd5gm8/'
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 23573 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-w2i41453/'
+Version: B70326 (SC2.2018Season4)
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 16661 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-ajck5bp4/'
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 23445 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-vmynm3ow/'
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 20663 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-erh185po/'
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 16395 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-bjf0mnos/'
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 22129 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-qiady8b0/'
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 15780 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-5iqul93c/'
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 2 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:23445
+Listening on: 127.0.0.1:22129
+Listening on: 127.0.0.1:20663
+Startup Phase 3 complete. Ready for commands.
+Startup Phase 3 complete. Ready for commands.
+Startup Phase 3 complete. Ready for commands.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Listening on: 127.0.0.1:16661
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:23573
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:15780
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:16395
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:24539
+Startup Phase 3 complete. Ready for commands.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+
+ Map corridor Algo mappo Exp mlp updates 0/3125 episodes, total num timesteps 3200/10000000, FPS 247.
+
+incre win rate is 0.0.
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 23351 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-eiv2cjxx/'
+Starting up...
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:23351
+Startup Phase 3 complete. Ready for commands.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Sending ResponseJoinGame
+eval win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 5/3125 episodes, total num timesteps 19200/10000000, FPS 178.
+
+incre win rate is 0.0.
+Process Process-8:
+Process Process-7:
+Process Process-4:
+Process Process-6:
+Process Process-3:
+Process Process-5:
+Process Process-9:
+Process Process-2:
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 306, in shareworker
+    ob, s_ob, reward, done, info, available_actions = env.step(data)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 486, in step
+    self._controller.step(self._step_mul)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 99, in _valid_status
+    return func(self, *args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 111, in _catch_game_end
+    return func(self, *args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 287, in step
+    return self._client.send(step=sc_pb.RequestStep(count=count))
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 306, in shareworker
+    ob, s_ob, reward, done, info, available_actions = env.step(data)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 151, in send
+    res = self.send_req(req)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 488, in step
+    self._obs = self._controller.observe()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 99, in _valid_status
+    return func(self, *args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 131, in send_req
+    return self.read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 250, in observe
+    disable_fog=disable_fog))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 151, in send
+    res = self.send_req(req)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 102, in read
+    response = self._read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 131, in send_req
+    return self.read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 183, in _read
+    response_str = self._sock.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 102, in read
+    response = self._read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 302, in recv
+    opcode, data = self.recv_data()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 183, in _read
+    response_str = self._sock.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 302, in recv
+    opcode, data = self.recv_data()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 319, in recv_data
+    opcode, frame = self.recv_data_frame(control_frame)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 319, in recv_data
+    opcode, frame = self.recv_data_frame(control_frame)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 332, in recv_data_frame
+    frame = self.recv_frame()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 332, in recv_data_frame
+    frame = self.recv_frame()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 366, in recv_frame
+    return self.frame_buffer.recv_frame()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 366, in recv_frame
+    return self.frame_buffer.recv_frame()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 361, in recv_frame
+    self.recv_header()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 361, in recv_frame
+    self.recv_header()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 309, in recv_header
+    header = self.recv_strict(2)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 396, in recv_strict
+    bytes_ = self.recv(min(16384, shortage))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 309, in recv_header
+    header = self.recv_strict(2)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 441, in _recv
+    return recv(self.sock, bufsize)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 396, in recv_strict
+    bytes_ = self.recv(min(16384, shortage))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_socket.py", line 81, in recv
+    bytes_ = sock.recv(bufsize)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 441, in _recv
+    return recv(self.sock, bufsize)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_socket.py", line 81, in recv
+    bytes_ = sock.recv(bufsize)
+KeyboardInterrupt
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "train/train_smac.py", line 175, in <module>
+    main(sys.argv[1:])
+  File "train/train_smac.py", line 160, in main
+    runner.run()
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/runner/shared/smac_runner.py", line 55, in run
+    obs, share_obs, rewards, dones, infos, available_actions = self.envs.step(actions)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 107, in step
+    return self.step_wait()
+Traceback (most recent call last):
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 369, in step_wait
+    results = [remote.recv() for remote in self.remotes]
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 369, in <listcomp>
+    results = [remote.recv() for remote in self.remotes]
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 306, in shareworker
+    ob, s_ob, reward, done, info, available_actions = env.step(data)
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 486, in step
+    self._controller.step(self._step_mul)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 99, in _valid_status
+    return func(self, *args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 111, in _catch_game_end
+    return func(self, *args, **kwargs)
+KeyboardInterrupt
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 287, in step
+    return self._client.send(step=sc_pb.RequestStep(count=count))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 151, in send
+    res = self.send_req(req)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 130, in send_req
+    self.write(request)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 306, in shareworker
+    ob, s_ob, reward, done, info, available_actions = env.step(data)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 126, in write
+    self._write(request)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 488, in step
+    self._obs = self._controller.observe()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 196, in _write
+    self._sock.send(request_str)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 99, in _valid_status
+    return func(self, *args, **kwargs)
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 242, in send
+    return self.send_frame(frame)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 267, in send_frame
+    l = self._send(data)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 250, in observe
+    disable_fog=disable_fog))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 151, in send
+    res = self.send_req(req)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 437, in _send
+    return send(self.sock, data)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 130, in send_req
+    self.write(request)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_socket.py", line 117, in send
+    return sock.send(data)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 306, in shareworker
+    ob, s_ob, reward, done, info, available_actions = env.step(data)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 484, in step
+    self._controller.actions(req_actions)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 126, in write
+    self._write(request)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 85, in _skip_status
+    return func(self, *args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 196, in _write
+    self._sock.send(request_str)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 99, in _valid_status
+    return func(self, *args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 242, in send
+    return self.send_frame(frame)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 111, in _catch_game_end
+    return func(self, *args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 261, in send_frame
+    data = frame.format()
+KeyboardInterrupt
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 242, in format
+    return frame_header + self._get_masked(mask_key)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 301, in actions
+    return self._client.send(action=req_action)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 245, in _get_masked
+    s = ABNF.mask(mask_key, self.data)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 151, in send
+    res = self.send_req(req)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 277, in mask
+    masked = numpy.bitwise_xor(a, [_mask_key]).astype("uint32")
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 131, in send_req
+    return self.read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 102, in read
+    response = self._read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 183, in _read
+    response_str = self._sock.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 302, in recv
+    opcode, data = self.recv_data()
+KeyboardInterrupt
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 319, in recv_data
+    opcode, frame = self.recv_data_frame(control_frame)
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 332, in recv_data_frame
+    frame = self.recv_frame()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 366, in recv_frame
+    return self.frame_buffer.recv_frame()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 361, in recv_frame
+    self.recv_header()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 309, in recv_header
+    header = self.recv_strict(2)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 396, in recv_strict
+    bytes_ = self.recv(min(16384, shortage))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 441, in _recv
+    return recv(self.sock, bufsize)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_socket.py", line 81, in recv
+    bytes_ = sock.recv(bufsize)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 306, in shareworker
+    ob, s_ob, reward, done, info, available_actions = env.step(data)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 486, in step
+    self._controller.step(self._step_mul)
+KeyboardInterrupt
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 99, in _valid_status
+    return func(self, *args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 111, in _catch_game_end
+    return func(self, *args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 306, in shareworker
+    ob, s_ob, reward, done, info, available_actions = env.step(data)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 287, in step
+    return self._client.send(step=sc_pb.RequestStep(count=count))
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 488, in step
+    self._obs = self._controller.observe()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 99, in _valid_status
+    return func(self, *args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 151, in send
+    res = self.send_req(req)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 131, in send_req
+    return self.read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 250, in observe
+    disable_fog=disable_fog))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 151, in send
+    res = self.send_req(req)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 130, in send_req
+    self.write(request)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 102, in read
+    response = self._read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 126, in write
+    self._write(request)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 196, in _write
+    self._sock.send(request_str)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 183, in _read
+    response_str = self._sock.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 242, in send
+    return self.send_frame(frame)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 302, in recv
+    opcode, data = self.recv_data()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 261, in send_frame
+    data = frame.format()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 242, in format
+    return frame_header + self._get_masked(mask_key)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 319, in recv_data
+    opcode, frame = self.recv_data_frame(control_frame)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 245, in _get_masked
+    s = ABNF.mask(mask_key, self.data)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 332, in recv_data_frame
+    frame = self.recv_frame()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 277, in mask
+    masked = numpy.bitwise_xor(a, [_mask_key]).astype("uint32")
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 366, in recv_frame
+    return self.frame_buffer.recv_frame()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 361, in recv_frame
+    self.recv_header()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 309, in recv_header
+    header = self.recv_strict(2)
+KeyboardInterrupt
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 396, in recv_strict
+    bytes_ = self.recv(min(16384, shortage))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 441, in _recv
+    return recv(self.sock, bufsize)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_socket.py", line 81, in recv
+    bytes_ = sock.recv(bufsize)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/env_wrappers.py", line 306, in shareworker
+    ob, s_ob, reward, done, info, available_actions = env.step(data)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 488, in step
+    self._obs = self._controller.observe()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 99, in _valid_status
+    return func(self, *args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/remote_controller.py", line 250, in observe
+    disable_fog=disable_fog))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 151, in send
+    res = self.send_req(req)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 131, in send_req
+    return self.read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/stopwatch.py", line 212, in _stopwatch
+    return func(*args, **kwargs)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 102, in read
+    response = self._read()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/pysc2/lib/protocol.py", line 183, in _read
+    response_str = self._sock.recv()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 302, in recv
+    opcode, data = self.recv_data()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 319, in recv_data
+    opcode, frame = self.recv_data_frame(control_frame)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 332, in recv_data_frame
+    frame = self.recv_frame()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 366, in recv_frame
+    return self.frame_buffer.recv_frame()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 361, in recv_frame
+    self.recv_header()
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 309, in recv_header
+    header = self.recv_strict(2)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_abnf.py", line 396, in recv_strict
+    bytes_ = self.recv(min(16384, shortage))
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_core.py", line 441, in _recv
+    return recv(self.sock, bufsize)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/websocket/_socket.py", line 81, in recv
+    bytes_ = sock.recv(bufsize)
+KeyboardInterrupt

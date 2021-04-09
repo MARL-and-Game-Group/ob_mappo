@@ -1,0 +1,44 @@
+2021-04-09 04:34:07,635 INFO    MainThread:1694511 [wandb_init.py:_log_setup():292] Logging user logs to /home/menglh/rlproj/tmp/on-policy/onpolicy/scripts/results/StarCraft2/3m/mappo/mlp/wandb/run-20210409_043407-ixu0vzb7/logs/debug.log
+2021-04-09 04:34:07,635 INFO    MainThread:1694511 [wandb_init.py:_log_setup():293] Logging internal logs to /home/menglh/rlproj/tmp/on-policy/onpolicy/scripts/results/StarCraft2/3m/mappo/mlp/wandb/run-20210409_043407-ixu0vzb7/logs/debug-internal.log
+2021-04-09 04:34:07,635 INFO    MainThread:1694511 [wandb_setup.py:_flush():68] setting env: {}
+2021-04-09 04:34:07,635 INFO    MainThread:1694511 [wandb_setup.py:_flush():68] setting user settings: {}
+2021-04-09 04:34:07,635 INFO    MainThread:1694511 [wandb_setup.py:_flush():68] multiprocessing start_methods=fork,spawn,forkserver
+2021-04-09 04:34:10,046 INFO    MainThread:1694511 [wandb_run.py:_console_start():1265] atexit reg
+2021-04-09 04:34:10,048 INFO    MainThread:1694511 [wandb_run.py:_redirect():1135] redirect: SettingsConsole.REDIRECT
+2021-04-09 04:34:10,049 INFO    MainThread:1694511 [wandb_run.py:_redirect():1138] Redirecting console.
+2021-04-09 04:34:10,049 INFO    MainThread:1694511 [redirect.py:install():196] install start
+2021-04-09 04:34:10,050 INFO    MainThread:1694511 [redirect.py:install():211] install stop
+2021-04-09 04:34:10,050 INFO    MainThread:1694511 [redirect.py:install():196] install start
+2021-04-09 04:34:10,050 INFO    MainThread:1694511 [redirect.py:install():211] install stop
+2021-04-09 04:34:10,050 INFO    MainThread:1694511 [wandb_run.py:_redirect():1182] Redirects installed.
+2021-04-09 10:43:24,174 INFO    MainThread:1694511 [wandb_run.py:_atexit_cleanup():1238] got exitcode: 255
+2021-04-09 10:43:24,178 INFO    MainThread:1694511 [wandb_run.py:_restore():1210] restore
+2021-04-09 10:43:24,178 INFO    MainThread:1694511 [redirect.py:uninstall():215] uninstall start
+2021-04-09 10:43:24,179 INFO    MainThread:1694511 [redirect.py:_stop():264] _stop: stdout
+2021-04-09 10:43:24,179 INFO    MainThread:1694511 [redirect.py:_stop():270] _stop closed: stdout
+2021-04-09 10:43:24,180 INFO    stdout    :1694511 [redirect.py:_pipe_relay():119] relay done saw last write: stdout
+2021-04-09 10:43:24,180 INFO    stdout    :1694511 [redirect.py:_pipe_relay():135] relay done done: stdout
+2021-04-09 10:43:24,180 INFO    MainThread:1694511 [redirect.py:_stop():276] _stop joined: stdout
+2021-04-09 10:43:24,180 INFO    MainThread:1694511 [redirect.py:_stop():278] _stop rd closed: stdout
+2021-04-09 10:43:24,180 INFO    MainThread:1694511 [redirect.py:uninstall():219] uninstall done
+2021-04-09 10:43:24,180 INFO    MainThread:1694511 [redirect.py:uninstall():215] uninstall start
+2021-04-09 10:43:24,180 INFO    MainThread:1694511 [redirect.py:_stop():264] _stop: stderr
+2021-04-09 10:43:24,180 INFO    MainThread:1694511 [redirect.py:_stop():270] _stop closed: stderr
+2021-04-09 10:43:24,181 INFO    stderr    :1694511 [redirect.py:_pipe_relay():119] relay done saw last write: stderr
+2021-04-09 10:43:24,181 INFO    stderr    :1694511 [redirect.py:_pipe_relay():135] relay done done: stderr
+2021-04-09 10:43:24,181 INFO    MainThread:1694511 [redirect.py:_stop():276] _stop joined: stderr
+2021-04-09 10:43:24,181 INFO    MainThread:1694511 [redirect.py:_stop():278] _stop rd closed: stderr
+2021-04-09 10:43:24,181 INFO    MainThread:1694511 [redirect.py:uninstall():219] uninstall done
+2021-04-09 10:43:24,184 INFO    MainThread:1694511 [wandb_run.py:_wait_for_finish():1349] got exit ret: uuid: "a944e93c2aed44c1b4ce8dc131366304"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 1
+    }
+    pusher_stats {
+      uploaded_bytes: 1411
+      total_bytes: 1411
+    }
+  }
+}
+

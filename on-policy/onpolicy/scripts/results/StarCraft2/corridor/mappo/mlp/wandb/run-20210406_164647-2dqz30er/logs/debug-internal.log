@@ -1,0 +1,14 @@
+2021-04-06 16:46:48,098 INFO    MainThread:187489 [internal.py:wandb_internal():62] W&B internal server running at pid: 187489
+2021-04-06 16:46:48,101 DEBUG   HandlerThread:187489 [handler.py:handle_request():54] handle_request: check_version
+2021-04-06 16:46:48,101 INFO    WriterThread:187489 [datastore.py:open_for_write():76] open: /home/menglh/rlproj/tmp/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210406_164647-2dqz30er/run-2dqz30er.wandb
+2021-04-06 16:46:48,104 DEBUG   SenderThread:187489 [sender.py:send():88] send: header
+2021-04-06 16:46:48,104 DEBUG   SenderThread:187489 [sender.py:send():88] send: request
+2021-04-06 16:46:48,104 DEBUG   SenderThread:187489 [sender.py:send_request():97] send_request: check_version
+2021-04-06 16:46:48,109 DEBUG   Thread-4  :187489 [connectionpool.py:_new_conn():823] Starting new HTTPS connection (1): pypi.org:443
+2021-04-06 16:46:48,702 DEBUG   Thread-4  :187489 [connectionpool.py:_make_request():393] https://pypi.org:443 "GET /pypi/wandb/json HTTP/1.1" 200 55912
+2021-04-06 16:46:48,786 WARNING MainThread:187489 [internal.py:wandb_internal():116] Internal process interrupt: 1
+2021-04-06 16:46:49,023 WARNING MainThread:187489 [internal.py:wandb_internal():116] Internal process interrupt: 2
+2021-04-06 16:46:49,023 ERROR   MainThread:187489 [internal.py:wandb_internal():119] Internal process interrupted.
+2021-04-06 16:46:49,103 INFO    WriterThread:187489 [datastore.py:close():257] close: /home/menglh/rlproj/tmp/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210406_164647-2dqz30er/run-2dqz30er.wandb
+2021-04-06 16:46:49,103 INFO    HandlerThread:187489 [handler.py:finish():267] shutting down handler
+2021-04-06 16:46:49,482 INFO    MainThread:187489 [internal.py:handle_exit():137] Internal process exited

@@ -1,0 +1,434 @@
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 24139 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-ginxa7np/'
+Version: B70326 (SC2.2018Season4)
+Version: B70326 (SC2.2018Season4)
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 17396 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-om50421b/'
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 16295 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-tej02h1g/'
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 22524 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-nsdm4cww/'
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 15889 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-k7w2hwjm/'
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 19289 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-wtmutox_/'
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 19958 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-h1aao3dz/'
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 16666 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-9g39xmbj/'
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:19289
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:15889
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:16295
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:24139
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:22524
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:16666
+Startup Phase 3 complete. Ready for commands.
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Listening on: 127.0.0.1:17396
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:19958
+Startup Phase 3 complete. Ready for commands.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+
+ Map corridor Algo mappo Exp mlp updates 0/3125 episodes, total num timesteps 3200/10000000, FPS 242.
+
+incre win rate is 0.0.
+Version: B70326 (SC2.2018Season4)
+Build: Nov 27 2018 03:26:30
+Command Line: '"/home/menglh/StarCraftII/Versions/Base70154/SC2_x64" -listen 127.0.0.1 -port 15313 -dataDir /home/menglh/StarCraftII/ -tempDir /tmp/sc-os58a84p/'
+Starting up...
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:15313
+Startup Phase 3 complete. Ready for commands.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Entering load game phase.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Sending ResponseJoinGame
+eval win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 5/3125 episodes, total num timesteps 19200/10000000, FPS 163.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 10/3125 episodes, total num timesteps 35200/10000000, FPS 188.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 15/3125 episodes, total num timesteps 51200/10000000, FPS 201.
+
+incre win rate is 0.0.
+/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/numpy/core/fromnumeric.py:83: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+/home/menglh/rlproj/tmp/on-policy/onpolicy/utils/shared_buffer.py:230: RuntimeWarning: invalid value encountered in multiply
+  - self.ob[step + 1]
+/home/menglh/rlproj/tmp/on-policy/onpolicy/utils/shared_buffer.py:231: RuntimeWarning: invalid value encountered in multiply
+  gae = delta + self.gamma * self.gae_lambda * self.masks[step + 1] * gae
+/home/menglh/rlproj/tmp/on-policy/onpolicy/algorithms/r_mappo/r_mappo.py:201: RuntimeWarning: invalid value encountered in subtract
+  advantages = buffer.returns[:-1] - self.value_normalizer.denormalize(buffer.value_preds[:-1])
+/home/menglh/rlproj/tmp/on-policy/onpolicy/algorithms/r_mappo/r_mappo.py:206: RuntimeWarning: Mean of empty slice
+  mean_advantages = np.nanmean(advantages_copy)
+/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/numpy/lib/nanfunctions.py:1545: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  keepdims=keepdims)
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [0,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [1,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [2,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [3,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [4,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [5,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [6,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [7,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [8,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [9,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [10,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [11,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [12,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [13,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [14,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [15,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [16,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [17,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [18,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [19,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [20,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [21,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [22,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [23,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [24,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [25,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [26,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [27,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [28,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [43,0,0], thread: [29,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [0,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [1,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [2,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [3,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [4,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [5,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [6,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [7,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [8,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [9,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [10,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [11,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [12,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [13,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [14,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [15,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [16,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [17,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [18,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [19,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [20,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [21,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [22,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [23,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [24,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [25,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [26,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [27,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [28,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [13,0,0], thread: [29,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [0,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [1,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [2,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [3,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [4,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [5,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [6,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [7,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [8,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [9,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [10,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [11,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [12,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [13,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [14,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [15,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [16,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [17,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [18,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [19,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [20,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [21,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [22,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [23,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [24,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [25,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [26,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [27,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [28,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [16,0,0], thread: [29,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [0,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [1,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [2,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [3,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [4,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [5,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [6,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [7,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [8,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [9,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [10,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [11,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [12,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [13,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [14,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [15,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [16,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [17,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [18,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [19,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [20,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [21,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [22,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [23,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [24,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [25,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [26,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [27,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [28,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [22,0,0], thread: [29,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [0,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [1,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [2,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [3,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [4,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [5,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [6,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [7,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [8,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [9,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [10,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [11,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [12,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [13,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [14,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [15,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [16,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [17,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [18,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [19,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [20,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [21,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [22,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [23,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [24,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [25,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [26,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [27,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [28,0,0] Assertion `val >= zero` failed.
+/pytorch/aten/src/ATen/native/cuda/MultinomialKernel.cu:190: sampleMultinomialOnce: block: [19,0,0], thread: [29,0,0] Assertion `val >= zero` failed.
+Traceback (most recent call last):
+  File "train/train_smac.py", line 175, in <module>
+    main(sys.argv[1:])
+  File "train/train_smac.py", line 160, in main
+    runner.run()
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/runner/shared/smac_runner.py", line 45, in run
+    q_values, values, actions, action_log_probs, rnn_states, rnn_states_critic, pi = self.collect(step)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/torch/autograd/grad_mode.py", line 26, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/runner/shared/smac_runner.py", line 146, in collect
+    np.concatenate(self.buffer.available_actions[step]))
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/algorithms/r_mappo/algorithm/rMAPPOPolicy.py", line 87, in get_actions
+    q_values, rnn_states_critic = self.q_head(cent_obs, rnn_states_critic, masks)
+  File "/home/menglh/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/torch/nn/modules/module.py", line 727, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/home/menglh/rlproj/tmp/on-policy/onpolicy/algorithms/r_mappo/algorithm/r_actor_critic.py", line 226, in forward
+    cent_obs = check(cent_obs).to(**self.tpdv)
+RuntimeError: CUDA error: device-side assert triggered
+RequestQuit command received.
+Closing Application...
+unable to parse websocket frame.
