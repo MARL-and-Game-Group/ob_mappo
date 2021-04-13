@@ -1,0 +1,258 @@
+/home/linghui/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/torch/cuda/__init__.py:104: UserWarning: 
+GeForce RTX 3090 with CUDA capability sm_86 is not compatible with the current PyTorch installation.
+The current PyTorch install supports CUDA capabilities sm_37 sm_50 sm_60 sm_70.
+If you want to use the GeForce RTX 3090 GPU with PyTorch, please check the instructions at https://pytorch.org/get-started/locally/
+
+  warnings.warn(incompatible_device_warn.format(device_name, capability, " ".join(arch_list), device_name))
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 21849 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-8xn5l5vr/'
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 15500 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-h9pwgaiw/'
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 15184 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-hp8hx_j1/'
+Starting up...
+Starting up...
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 21808 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-wdbmc_27/'
+Version: B75689 (SC2.4.10)
+Starting up...
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 18465 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-nll97ko5/'
+Startup Phase 1 complete
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 21169 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-67hfthg2/'
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 24696 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-8uo_zgpr/'
+Starting up...
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 18699 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-pu85ea4m/'
+Startup Phase 1 complete
+Starting up...
+Starting up...
+Starting up...
+Startup Phase 1 complete
+Starting up...
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:21849
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:21808
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:15500
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:24696
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:15184
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:18699
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:18465
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:21169
+Startup Phase 3 complete. Ready for commands.
+ConnectHandler: Request from 127.0.0.1:38370 accepted
+ReadyHandler: 127.0.0.1:38370 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+ConnectHandler: Request from 127.0.0.1:35196 accepted
+ReadyHandler: 127.0.0.1:35196 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+ConnectHandler: Request from 127.0.0.1:54226 accepted
+ReadyHandler: 127.0.0.1:54226 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+ConnectHandler: Request from 127.0.0.1:40002 accepted
+ReadyHandler: 127.0.0.1:40002 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+ConnectHandler: Request from 127.0.0.1:51624 accepted
+ReadyHandler: 127.0.0.1:51624 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+ConnectHandler: Request from 127.0.0.1:48276 accepted
+ReadyHandler: 127.0.0.1:48276 ready
+ConnectHandler: Request from 127.0.0.1:58950 accepted
+ReadyHandler: 127.0.0.1:58950 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+ConnectHandler: Request from 127.0.0.1:45806 accepted
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+ReadyHandler: 127.0.0.1:45806 ready
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Traceback (most recent call last):
+  File "train/train_smac.py", line 175, in <module>
+    main(sys.argv[1:])
+  File "train/train_smac.py", line 160, in main
+    runner.run()
+  File "/home/linghui/rlproj/ob_mappo/on-policy/onpolicy/runner/shared/smac_runner.py", line 45, in run
+    q_values, values, actions, action_log_probs, rnn_states, rnn_states_critic, pi = self.collect(step)
+  File "/home/linghui/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/torch/autograd/grad_mode.py", line 27, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/linghui/rlproj/ob_mappo/on-policy/onpolicy/runner/shared/smac_runner.py", line 145, in collect
+    np.concatenate(self.buffer.available_actions[step]))
+  File "/home/linghui/rlproj/ob_mappo/on-policy/onpolicy/algorithms/r_mappo/algorithm/rMAPPOPolicy.py", line 84, in get_actions
+    deterministic)
+  File "/home/linghui/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/home/linghui/rlproj/ob_mappo/on-policy/onpolicy/algorithms/r_mappo/algorithm/r_actor_critic.py", line 62, in forward
+    actor_features = self.base(obs)
+  File "/home/linghui/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/home/linghui/rlproj/ob_mappo/on-policy/onpolicy/algorithms/utils/mlp.py", line 52, in forward
+    x = self.feature_norm(x)
+  File "/home/linghui/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/home/linghui/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/torch/nn/modules/normalization.py", line 171, in forward
+    input, self.normalized_shape, self.weight, self.bias, self.eps)
+  File "/home/linghui/miniconda3/envs/ob_mappo/lib/python3.6/site-packages/torch/nn/functional.py", line 2205, in layer_norm
+    return torch.layer_norm(input, normalized_shape, weight, bias, eps, torch.backends.cudnn.enabled)
+RuntimeError: CUDA error: no kernel image is available for execution on the device

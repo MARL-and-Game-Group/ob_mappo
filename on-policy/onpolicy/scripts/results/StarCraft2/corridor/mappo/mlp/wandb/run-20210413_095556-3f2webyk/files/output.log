@@ -1,0 +1,1082 @@
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 17279 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-3c9cfowj/'
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 24734 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-p1kyvn_l/'
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 21534 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-w5q8s0aq/'
+Starting up...
+Version: B75689 (SC2.4.10)
+Starting up...
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 24898 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-9p90mvj9/'
+Startup Phase 1 complete
+Starting up...
+Startup Phase 1 complete
+Version: B75689 (SC2.4.10)
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 21658 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-1f8ch2_t/'
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 17982 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-l0mm8ca8/'
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 16517 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-26gpx7q4/'
+Starting up...
+Starting up...
+Startup Phase 1 complete
+Starting up...
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 23846 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-ahc9bhph/'
+Startup Phase 1 complete
+Starting up...
+Startup Phase 1 complete
+Startup Phase 1 complete
+Starting up...
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:17279
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:24734
+Listening on: 127.0.0.1:21658
+Startup Phase 3 complete. Ready for commands.
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:24898
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:16517
+Listening on: 127.0.0.1:23846
+Startup Phase 3 complete. Ready for commands.
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:21534
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:17982
+Startup Phase 3 complete. Ready for commands.
+ConnectHandler: Request from 127.0.0.1:55538 accepted
+ReadyHandler: 127.0.0.1:55538 ready
+ConnectHandler: Request from 127.0.0.1:47406 accepted
+ReadyHandler: 127.0.0.1:47406 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+ConnectHandler: Request from 127.0.0.1:39524 accepted
+ReadyHandler: 127.0.0.1:39524 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+ConnectHandler: Request from 127.0.0.1:45192 accepted
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+ReadyHandler: 127.0.0.1:45192 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+ConnectHandler: Request from 127.0.0.1:50112 accepted
+ReadyHandler: 127.0.0.1:50112 ready
+ConnectHandler: Request from 127.0.0.1:40544 accepted
+ReadyHandler: 127.0.0.1:40544 ready
+ConnectHandler: Request from 127.0.0.1:54992 accepted
+ReadyHandler: 127.0.0.1:54992 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+ConnectHandler: Request from 127.0.0.1:37638 accepted
+ReadyHandler: 127.0.0.1:37638 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Sending ResponseJoinGame
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+
+ Map corridor Algo mappo Exp mlp updates 0/3125 episodes, total num timesteps 3200/10000000, FPS 360.
+
+incre win rate is 0.0.
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 22361 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-ghqfywhh/'
+Starting up...
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:22361
+Startup Phase 3 complete. Ready for commands.
+ConnectHandler: Request from 127.0.0.1:47102 accepted
+ReadyHandler: 127.0.0.1:47102 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+eval win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 5/3125 episodes, total num timesteps 19200/10000000, FPS 274.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 10/3125 episodes, total num timesteps 35200/10000000, FPS 315.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 15/3125 episodes, total num timesteps 51200/10000000, FPS 337.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 20/3125 episodes, total num timesteps 67200/10000000, FPS 351.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 25/3125 episodes, total num timesteps 83200/10000000, FPS 360.
+
+incre win rate is 0.0.
+eval win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 30/3125 episodes, total num timesteps 99200/10000000, FPS 348.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 35/3125 episodes, total num timesteps 115200/10000000, FPS 354.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 40/3125 episodes, total num timesteps 131200/10000000, FPS 359.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 45/3125 episodes, total num timesteps 147200/10000000, FPS 363.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 50/3125 episodes, total num timesteps 163200/10000000, FPS 366.
+
+incre win rate is 0.0.
+eval win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 55/3125 episodes, total num timesteps 179200/10000000, FPS 360.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 60/3125 episodes, total num timesteps 195200/10000000, FPS 362.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 65/3125 episodes, total num timesteps 211200/10000000, FPS 364.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 70/3125 episodes, total num timesteps 227200/10000000, FPS 366.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 75/3125 episodes, total num timesteps 243200/10000000, FPS 368.
+
+incre win rate is 0.0.
+eval win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 80/3125 episodes, total num timesteps 259200/10000000, FPS 362.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 85/3125 episodes, total num timesteps 275200/10000000, FPS 362.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 90/3125 episodes, total num timesteps 291200/10000000, FPS 363.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 95/3125 episodes, total num timesteps 307200/10000000, FPS 363.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 100/3125 episodes, total num timesteps 323200/10000000, FPS 363.
+
+incre win rate is 0.0.
+eval win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 105/3125 episodes, total num timesteps 339200/10000000, FPS 360.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 110/3125 episodes, total num timesteps 355200/10000000, FPS 360.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 115/3125 episodes, total num timesteps 371200/10000000, FPS 361.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 120/3125 episodes, total num timesteps 387200/10000000, FPS 361.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 125/3125 episodes, total num timesteps 403200/10000000, FPS 361.
+
+incre win rate is 0.0.
+eval win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 130/3125 episodes, total num timesteps 419200/10000000, FPS 358.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 135/3125 episodes, total num timesteps 435200/10000000, FPS 358.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 140/3125 episodes, total num timesteps 451200/10000000, FPS 359.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 145/3125 episodes, total num timesteps 467200/10000000, FPS 359.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 150/3125 episodes, total num timesteps 483200/10000000, FPS 360.
+
+incre win rate is 0.0.
+eval win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 155/3125 episodes, total num timesteps 499200/10000000, FPS 357.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 160/3125 episodes, total num timesteps 515200/10000000, FPS 357.
+
+incre win rate is 0.0.
+RequestQuit command received.
+Closing Application...
+DataHandler: unable to parse websocket frame.
+CloseHandler: 127.0.0.1:54992 disconnected
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 21391 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-hrajm7z0/'
+Starting up...
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:21391
+Startup Phase 3 complete. Ready for commands.
+ConnectHandler: Request from 127.0.0.1:54242 accepted
+ReadyHandler: 127.0.0.1:54242 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+DataHandler: unable to parse websocket frame.
+CloseHandler: 127.0.0.1:39524 disconnected
+RequestQuit command received.
+QueueResponse: No outstanding requests to this connection, dropping response: quit, id: 999999999
+Closing Application...
+DataHandler: unable to parse websocket frame.
+CloseHandler: 127.0.0.1:37638 disconnected
+DataHandler: unable to parse websocket frame.
+CloseHandler: 127.0.0.1:45192 disconnected
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 18961 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-_0yj57w0/'
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 23530 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-vr5q8glr/'
+Starting up...
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 23101 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-4waxt631/'
+Starting up...
+Startup Phase 1 complete
+Starting up...
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:23101
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:23530
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:18961
+Startup Phase 3 complete. Ready for commands.
+ConnectHandler: Request from 127.0.0.1:48618 accepted
+ReadyHandler: 127.0.0.1:48618 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+ConnectHandler: Request from 127.0.0.1:42442 accepted
+ReadyHandler: 127.0.0.1:42442 ready
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+ConnectHandler: Request from 127.0.0.1:36276 accepted
+ReadyHandler: 127.0.0.1:36276 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+RequestQuit command received.
+Closing Application...
+DataHandler: unable to parse websocket frame.
+CloseHandler: 127.0.0.1:40544 disconnected
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 24122 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-567c1s6c/'
+Starting up...
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:24122
+Startup Phase 3 complete. Ready for commands.
+ConnectHandler: Request from 127.0.0.1:53704 accepted
+ReadyHandler: 127.0.0.1:53704 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+DataHandler: unable to parse websocket frame.
+CloseHandler: 127.0.0.1:55538 disconnected
+DataHandler: unable to parse websocket frame.
+CloseHandler: 127.0.0.1:50112 disconnected
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 18469 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-i_wf2fzr/'
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 23296 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-0irx0g3r/'
+Starting up...
+Starting up...
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:18469
+Listening on: 127.0.0.1:23296
+Startup Phase 3 complete. Ready for commands.
+Startup Phase 3 complete. Ready for commands.
+ConnectHandler: Request from 127.0.0.1:36408 accepted
+ReadyHandler: 127.0.0.1:36408 ready
+ConnectHandler: Request from 127.0.0.1:54328 accepted
+ReadyHandler: 127.0.0.1:54328 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+DataHandler: unable to parse websocket frame.
+CloseHandler: 127.0.0.1:47406 disconnected
+RequestQuit command received.
+QueueResponse: No outstanding requests to this connection, dropping response: quit, id: 999999999
+Closing Application...
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 15855 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-zvaipcyx/'
+Starting up...
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:15855
+Startup Phase 3 complete. Ready for commands.
+ConnectHandler: Request from 127.0.0.1:40662 accepted
+ReadyHandler: 127.0.0.1:40662 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+
+ Map corridor Algo mappo Exp mlp updates 165/3125 episodes, total num timesteps 531200/10000000, FPS 350.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 170/3125 episodes, total num timesteps 547200/10000000, FPS 351.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 175/3125 episodes, total num timesteps 563200/10000000, FPS 351.
+
+incre win rate is 0.0.
+eval win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 180/3125 episodes, total num timesteps 579200/10000000, FPS 349.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 185/3125 episodes, total num timesteps 595200/10000000, FPS 350.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 190/3125 episodes, total num timesteps 611200/10000000, FPS 350.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 195/3125 episodes, total num timesteps 627200/10000000, FPS 350.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 200/3125 episodes, total num timesteps 643200/10000000, FPS 351.
+
+incre win rate is 0.0.
+eval win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 205/3125 episodes, total num timesteps 659200/10000000, FPS 350.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 210/3125 episodes, total num timesteps 675200/10000000, FPS 350.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 215/3125 episodes, total num timesteps 691200/10000000, FPS 350.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 220/3125 episodes, total num timesteps 707200/10000000, FPS 350.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 225/3125 episodes, total num timesteps 723200/10000000, FPS 351.
+
+incre win rate is 0.0.
+eval win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 230/3125 episodes, total num timesteps 739200/10000000, FPS 349.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 235/3125 episodes, total num timesteps 755200/10000000, FPS 349.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 240/3125 episodes, total num timesteps 771200/10000000, FPS 350.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 245/3125 episodes, total num timesteps 787200/10000000, FPS 350.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 250/3125 episodes, total num timesteps 803200/10000000, FPS 350.
+
+incre win rate is 0.0.
+eval win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 255/3125 episodes, total num timesteps 819200/10000000, FPS 349.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 260/3125 episodes, total num timesteps 835200/10000000, FPS 349.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 265/3125 episodes, total num timesteps 851200/10000000, FPS 350.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 270/3125 episodes, total num timesteps 867200/10000000, FPS 350.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 275/3125 episodes, total num timesteps 883200/10000000, FPS 351.
+
+incre win rate is 0.0.
+eval win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 280/3125 episodes, total num timesteps 899200/10000000, FPS 349.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 285/3125 episodes, total num timesteps 915200/10000000, FPS 350.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 290/3125 episodes, total num timesteps 931200/10000000, FPS 350.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 295/3125 episodes, total num timesteps 947200/10000000, FPS 350.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 300/3125 episodes, total num timesteps 963200/10000000, FPS 351.
+
+incre win rate is 0.0.
+eval win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 305/3125 episodes, total num timesteps 979200/10000000, FPS 349.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 310/3125 episodes, total num timesteps 995200/10000000, FPS 350.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 315/3125 episodes, total num timesteps 1011200/10000000, FPS 350.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 320/3125 episodes, total num timesteps 1027200/10000000, FPS 350.
+
+incre win rate is 0.0.
+RequestQuit command received.
+Closing Application...
+DataHandler: unable to parse websocket frame.
+CloseHandler: 127.0.0.1:42442 disconnected
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 21548 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-dxtlkvau/'
+Starting up...
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:21548
+Startup Phase 3 complete. Ready for commands.
+ConnectHandler: Request from 127.0.0.1:46088 accepted
+ReadyHandler: 127.0.0.1:46088 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+DataHandler: unable to parse websocket frame.
+RequestQuit command received.
+CloseHandler: 127.0.0.1:36276 disconnected
+Closing Application...
+DataHandler: unable to parse websocket frame.
+CloseHandler: 127.0.0.1:36408 disconnected
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 19494 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-qp1ccbhq/'
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 22237 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-dh68qegd/'
+Starting up...
+Starting up...
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:22237
+Listening on: 127.0.0.1:19494
+Startup Phase 3 complete. Ready for commands.
+Startup Phase 3 complete. Ready for commands.
+ConnectHandler: Request from 127.0.0.1:39530 accepted
+ReadyHandler: 127.0.0.1:39530 ready
+Requesting to join a single player game
+ConnectHandler: Request from 127.0.0.1:45746 accepted
+Configuring interface options
+ReadyHandler: 127.0.0.1:45746 ready
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+RequestQuit command received.
+DataHandler: unable to parse websocket frame.
+CloseHandler: 127.0.0.1:53704 disconnected
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 22032 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-rhu0nlao/'
+Starting up...
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:22032
+Startup Phase 3 complete. Ready for commands.
+ConnectHandler: Request from 127.0.0.1:38642 accepted
+ReadyHandler: 127.0.0.1:38642 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+DataHandler: unable to parse websocket frame.
+CloseHandler: 127.0.0.1:48618 disconnected
+RequestQuit command received.
+QueueResponse: No outstanding requests to this connection, dropping response: quit, id: 999999999
+Closing Application...
+RequestQuit command received.
+DataHandler: unable to parse websocket frame.
+CloseHandler: 127.0.0.1:54242 disconnected
+Closing Application...
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 19860 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-smzkzdyp/'
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 20717 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-3vh252xz/'
+Starting up...
+Starting up...
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:20717
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:19860
+Startup Phase 3 complete. Ready for commands.
+ConnectHandler: Request from 127.0.0.1:56404 accepted
+ReadyHandler: 127.0.0.1:56404 ready
+ConnectHandler: Request from 127.0.0.1:48384 accepted
+ReadyHandler: 127.0.0.1:48384 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+DataHandler: unable to parse websocket frame.
+CloseHandler: 127.0.0.1:54328 disconnected
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 22541 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-vjpqkwze/'
+Starting up...
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:22541
+Startup Phase 3 complete. Ready for commands.
+ConnectHandler: Request from 127.0.0.1:52612 accepted
+ReadyHandler: 127.0.0.1:52612 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+RequestQuit command received.
+Closing Application...
+DataHandler: unable to parse websocket frame.
+CloseHandler: 127.0.0.1:40662 disconnected
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/linghui/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 20576 -dataDir /home/linghui/StarCraftII/ -tempDir /tmp/sc-a7wbayqe/'
+Starting up...
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:20576
+Startup Phase 3 complete. Ready for commands.
+ConnectHandler: Request from 127.0.0.1:46000 accepted
+ReadyHandler: 127.0.0.1:46000 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Successfully loaded stable ids: /home/linghui/StarCraftII/stableid.json
+Sending ResponseJoinGame
+
+ Map corridor Algo mappo Exp mlp updates 325/3125 episodes, total num timesteps 1043200/10000000, FPS 346.
+
+incre win rate is 0.0.
+eval win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 330/3125 episodes, total num timesteps 1059200/10000000, FPS 345.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 335/3125 episodes, total num timesteps 1075200/10000000, FPS 345.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 340/3125 episodes, total num timesteps 1091200/10000000, FPS 346.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 345/3125 episodes, total num timesteps 1107200/10000000, FPS 346.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 350/3125 episodes, total num timesteps 1123200/10000000, FPS 347.
+
+incre win rate is 0.0.
+eval win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 355/3125 episodes, total num timesteps 1139200/10000000, FPS 346.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 360/3125 episodes, total num timesteps 1155200/10000000, FPS 346.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 365/3125 episodes, total num timesteps 1171200/10000000, FPS 346.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 370/3125 episodes, total num timesteps 1187200/10000000, FPS 347.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 375/3125 episodes, total num timesteps 1203200/10000000, FPS 347.
+
+incre win rate is 0.0.
+eval win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 380/3125 episodes, total num timesteps 1219200/10000000, FPS 346.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 385/3125 episodes, total num timesteps 1235200/10000000, FPS 346.
+
+incre win rate is 0.0.

@@ -1,0 +1,13 @@
+2021-04-13 10:07:03,949 INFO    MainThread:3207678 [wandb_init.py:_log_setup():292] Logging user logs to /home/linghui/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210413_100703-2lttp27r/logs/debug.log
+2021-04-13 10:07:03,949 INFO    MainThread:3207678 [wandb_init.py:_log_setup():293] Logging internal logs to /home/linghui/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210413_100703-2lttp27r/logs/debug-internal.log
+2021-04-13 10:07:03,950 INFO    MainThread:3207678 [wandb_setup.py:_flush():68] setting env: {}
+2021-04-13 10:07:03,950 INFO    MainThread:3207678 [wandb_setup.py:_flush():68] setting user settings: {}
+2021-04-13 10:07:03,950 INFO    MainThread:3207678 [wandb_setup.py:_flush():68] multiprocessing start_methods=fork,spawn,forkserver
+2021-04-13 10:07:05,130 INFO    MainThread:3207678 [wandb_run.py:_console_start():1265] atexit reg
+2021-04-13 10:07:05,130 INFO    MainThread:3207678 [wandb_run.py:_redirect():1135] redirect: SettingsConsole.REDIRECT
+2021-04-13 10:07:05,132 INFO    MainThread:3207678 [wandb_run.py:_redirect():1138] Redirecting console.
+2021-04-13 10:07:05,132 INFO    MainThread:3207678 [redirect.py:install():196] install start
+2021-04-13 10:07:05,132 INFO    MainThread:3207678 [redirect.py:install():211] install stop
+2021-04-13 10:07:05,132 INFO    MainThread:3207678 [redirect.py:install():196] install start
+2021-04-13 10:07:05,132 INFO    MainThread:3207678 [redirect.py:install():211] install stop
+2021-04-13 10:07:05,132 INFO    MainThread:3207678 [wandb_run.py:_redirect():1182] Redirects installed.

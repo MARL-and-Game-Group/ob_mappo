@@ -1,9 +1,9 @@
 #!/bin/sh
 env="StarCraft2"
-map="3m"
+map="corridor"
 algo="mappo"
 exp="mlp"
-seed_max=5
+seed_max=1
 
 echo "env is ${env}, map is ${map}, algo is ${algo}, exp is ${exp}, max seed is ${seed_max}"
 for seed in `seq ${seed_max}`;
