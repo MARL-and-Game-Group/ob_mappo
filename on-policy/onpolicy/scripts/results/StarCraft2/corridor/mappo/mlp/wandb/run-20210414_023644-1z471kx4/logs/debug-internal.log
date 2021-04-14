@@ -1825,3 +1825,192 @@
 2021-04-14 03:08:55,630 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
 2021-04-14 03:08:55,630 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
 2021-04-14 03:08:57,538 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:09:02,128 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:09:02,634 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:09:02,634 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:09:03,499 DEBUG   HandlerThread:71213 [handler.py:handle_request():54] handle_request: status
+2021-04-14 03:09:03,499 DEBUG   SenderThread:71213 [sender.py:send():88] send: request
+2021-04-14 03:09:03,499 DEBUG   SenderThread:71213 [sender.py:send_request():97] send_request: status
+2021-04-14 03:09:03,502 DEBUG   SenderThread:71213 [connectionpool.py:_new_conn():823] Starting new HTTPS connection (1): api.wandb.ai:443
+2021-04-14 03:09:08,638 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:09:08,638 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/output.log
+2021-04-14 03:09:08,638 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:09:08,881 DEBUG   SenderThread:71213 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2021-04-14 03:09:08,884 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:09:08,884 DEBUG   SenderThread:71213 [sender.py:send():88] send: history
+2021-04-14 03:09:08,885 DEBUG   SenderThread:71213 [sender.py:send():88] send: summary
+2021-04-14 03:09:08,886 INFO    SenderThread:71213 [sender.py:_save_file():542] saving file wandb-summary.json with policy end
+2021-04-14 03:09:09,639 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/wandb-summary.json
+2021-04-14 03:09:11,386 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:09:15,643 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:09:15,643 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:09:16,007 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:09:20,613 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:09:21,647 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:09:21,647 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:09:23,888 DEBUG   HandlerThread:71213 [handler.py:handle_request():54] handle_request: status
+2021-04-14 03:09:23,889 DEBUG   SenderThread:71213 [sender.py:send():88] send: request
+2021-04-14 03:09:23,889 DEBUG   SenderThread:71213 [sender.py:send_request():97] send_request: status
+2021-04-14 03:09:23,892 DEBUG   SenderThread:71213 [connectionpool.py:_new_conn():823] Starting new HTTPS connection (1): api.wandb.ai:443
+2021-04-14 03:09:28,651 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:09:28,652 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:09:29,283 DEBUG   SenderThread:71213 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2021-04-14 03:09:29,285 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:09:29,534 DEBUG   Thread-5  :71213 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /files/reinholdm/StarCraft2/1z471kx4/file_stream HTTP/1.1" 200 None
+2021-04-14 03:09:29,831 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:09:34,421 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:09:34,656 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:09:34,656 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:09:39,054 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:09:40,705 DEBUG   SenderThread:71213 [sender.py:send():88] send: history
+2021-04-14 03:09:40,706 DEBUG   SenderThread:71213 [sender.py:send():88] send: summary
+2021-04-14 03:09:40,707 INFO    SenderThread:71213 [sender.py:_save_file():542] saving file wandb-summary.json with policy end
+2021-04-14 03:09:41,661 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:09:41,661 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/output.log
+2021-04-14 03:09:41,662 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/wandb-summary.json
+2021-04-14 03:09:41,662 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:09:43,644 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:09:44,290 DEBUG   HandlerThread:71213 [handler.py:handle_request():54] handle_request: status
+2021-04-14 03:09:44,291 DEBUG   SenderThread:71213 [sender.py:send():88] send: request
+2021-04-14 03:09:44,291 DEBUG   SenderThread:71213 [sender.py:send_request():97] send_request: status
+2021-04-14 03:09:44,294 DEBUG   SenderThread:71213 [connectionpool.py:_new_conn():823] Starting new HTTPS connection (1): api.wandb.ai:443
+2021-04-14 03:09:47,665 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:09:47,665 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:09:49,751 DEBUG   SenderThread:71213 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2021-04-14 03:09:49,754 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:09:52,869 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:09:53,669 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:09:53,670 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:09:57,485 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:10:00,675 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:10:00,675 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:10:02,082 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:10:02,327 DEBUG   Thread-5  :71213 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /files/reinholdm/StarCraft2/1z471kx4/file_stream HTTP/1.1" 200 None
+2021-04-14 03:10:04,757 DEBUG   HandlerThread:71213 [handler.py:handle_request():54] handle_request: status
+2021-04-14 03:10:04,758 DEBUG   SenderThread:71213 [sender.py:send():88] send: request
+2021-04-14 03:10:04,758 DEBUG   SenderThread:71213 [sender.py:send_request():97] send_request: status
+2021-04-14 03:10:04,761 DEBUG   SenderThread:71213 [connectionpool.py:_new_conn():823] Starting new HTTPS connection (1): api.wandb.ai:443
+2021-04-14 03:10:07,679 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:10:07,679 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:10:10,163 DEBUG   SenderThread:71213 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2021-04-14 03:10:10,165 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:10:11,309 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:10:13,541 DEBUG   SenderThread:71213 [sender.py:send():88] send: history
+2021-04-14 03:10:13,541 DEBUG   SenderThread:71213 [sender.py:send():88] send: summary
+2021-04-14 03:10:13,542 INFO    SenderThread:71213 [sender.py:_save_file():542] saving file wandb-summary.json with policy end
+2021-04-14 03:10:13,682 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:10:13,683 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/output.log
+2021-04-14 03:10:13,683 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/wandb-summary.json
+2021-04-14 03:10:13,683 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:10:15,917 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:10:20,525 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:10:24,687 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/output.log
+2021-04-14 03:10:25,133 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:10:25,167 DEBUG   HandlerThread:71213 [handler.py:handle_request():54] handle_request: status
+2021-04-14 03:10:25,168 DEBUG   SenderThread:71213 [sender.py:send():88] send: request
+2021-04-14 03:10:25,168 DEBUG   SenderThread:71213 [sender.py:send_request():97] send_request: status
+2021-04-14 03:10:25,171 DEBUG   SenderThread:71213 [connectionpool.py:_new_conn():823] Starting new HTTPS connection (1): api.wandb.ai:443
+2021-04-14 03:10:30,556 DEBUG   SenderThread:71213 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2021-04-14 03:10:30,558 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:10:30,690 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:10:30,691 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:10:34,355 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:10:34,598 DEBUG   Thread-5  :71213 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /files/reinholdm/StarCraft2/1z471kx4/file_stream HTTP/1.1" 200 None
+2021-04-14 03:10:37,694 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:10:37,695 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:10:38,964 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:10:43,592 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:10:43,699 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:10:43,699 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:10:45,561 DEBUG   HandlerThread:71213 [handler.py:handle_request():54] handle_request: status
+2021-04-14 03:10:45,561 DEBUG   SenderThread:71213 [sender.py:send():88] send: request
+2021-04-14 03:10:45,561 DEBUG   SenderThread:71213 [sender.py:send_request():97] send_request: status
+2021-04-14 03:10:45,564 DEBUG   SenderThread:71213 [connectionpool.py:_new_conn():823] Starting new HTTPS connection (1): api.wandb.ai:443
+2021-04-14 03:10:50,704 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:10:50,704 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:10:50,946 DEBUG   SenderThread:71213 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2021-04-14 03:10:50,948 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:10:52,796 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:10:56,262 DEBUG   SenderThread:71213 [sender.py:send():88] send: history
+2021-04-14 03:10:56,262 DEBUG   SenderThread:71213 [sender.py:send():88] send: summary
+2021-04-14 03:10:56,263 INFO    SenderThread:71213 [sender.py:_save_file():542] saving file wandb-summary.json with policy end
+2021-04-14 03:10:56,707 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:10:56,708 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/output.log
+2021-04-14 03:10:56,708 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/wandb-summary.json
+2021-04-14 03:10:56,708 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:10:57,410 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:11:02,018 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:11:03,711 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:11:03,711 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:11:05,950 DEBUG   HandlerThread:71213 [handler.py:handle_request():54] handle_request: status
+2021-04-14 03:11:05,951 DEBUG   SenderThread:71213 [sender.py:send():88] send: request
+2021-04-14 03:11:05,951 DEBUG   SenderThread:71213 [sender.py:send_request():97] send_request: status
+2021-04-14 03:11:05,954 DEBUG   SenderThread:71213 [connectionpool.py:_new_conn():823] Starting new HTTPS connection (1): api.wandb.ai:443
+2021-04-14 03:11:09,713 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:11:09,714 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:11:11,324 DEBUG   SenderThread:71213 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2021-04-14 03:11:11,325 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:11:11,326 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:11:11,596 DEBUG   Thread-5  :71213 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /files/reinholdm/StarCraft2/1z471kx4/file_stream HTTP/1.1" 200 None
+2021-04-14 03:11:15,716 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:11:15,717 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:11:15,852 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:11:20,461 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:11:22,722 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:11:22,722 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:11:25,068 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:11:26,330 DEBUG   HandlerThread:71213 [handler.py:handle_request():54] handle_request: status
+2021-04-14 03:11:26,330 DEBUG   SenderThread:71213 [sender.py:send():88] send: request
+2021-04-14 03:11:26,330 DEBUG   SenderThread:71213 [sender.py:send_request():97] send_request: status
+2021-04-14 03:11:26,333 DEBUG   SenderThread:71213 [connectionpool.py:_new_conn():823] Starting new HTTPS connection (1): api.wandb.ai:443
+2021-04-14 03:11:28,725 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:11:28,726 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/output.log
+2021-04-14 03:11:28,726 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:11:31,723 DEBUG   SenderThread:71213 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2021-04-14 03:11:31,725 DEBUG   SenderThread:71213 [sender.py:send():88] send: history
+2021-04-14 03:11:31,725 DEBUG   SenderThread:71213 [sender.py:send():88] send: summary
+2021-04-14 03:11:31,726 INFO    SenderThread:71213 [sender.py:_save_file():542] saving file wandb-summary.json with policy end
+2021-04-14 03:11:31,726 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:11:31,728 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/wandb-summary.json
+2021-04-14 03:11:34,285 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:11:35,730 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:11:35,731 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:11:38,908 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:11:42,735 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:11:42,735 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:11:43,518 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:11:43,804 DEBUG   Thread-5  :71213 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /files/reinholdm/StarCraft2/1z471kx4/file_stream HTTP/1.1" 200 None
+2021-04-14 03:11:46,727 DEBUG   HandlerThread:71213 [handler.py:handle_request():54] handle_request: status
+2021-04-14 03:11:46,727 DEBUG   SenderThread:71213 [sender.py:send():88] send: request
+2021-04-14 03:11:46,727 DEBUG   SenderThread:71213 [sender.py:send_request():97] send_request: status
+2021-04-14 03:11:46,730 DEBUG   SenderThread:71213 [connectionpool.py:_new_conn():823] Starting new HTTPS connection (1): api.wandb.ai:443
+2021-04-14 03:11:49,739 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:11:49,739 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:11:52,109 DEBUG   SenderThread:71213 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2021-04-14 03:11:52,110 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:11:52,740 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:11:55,742 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:11:55,743 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:11:57,348 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:12:01,958 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:12:02,074 DEBUG   SenderThread:71213 [sender.py:send():88] send: history
+2021-04-14 03:12:02,074 DEBUG   SenderThread:71213 [sender.py:send():88] send: summary
+2021-04-14 03:12:02,075 INFO    SenderThread:71213 [sender.py:_save_file():542] saving file wandb-summary.json with policy end
+2021-04-14 03:12:02,745 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:12:02,746 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/output.log
+2021-04-14 03:12:02,746 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/wandb-summary.json
+2021-04-14 03:12:02,746 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:12:06,556 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:12:07,113 DEBUG   HandlerThread:71213 [handler.py:handle_request():54] handle_request: status
+2021-04-14 03:12:07,113 DEBUG   SenderThread:71213 [sender.py:send():88] send: request
+2021-04-14 03:12:07,113 DEBUG   SenderThread:71213 [sender.py:send_request():97] send_request: status
+2021-04-14 03:12:07,116 DEBUG   SenderThread:71213 [connectionpool.py:_new_conn():823] Starting new HTTPS connection (1): api.wandb.ai:443
+2021-04-14 03:12:09,748 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:12:09,748 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:12:12,634 DEBUG   SenderThread:71213 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2021-04-14 03:12:12,635 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:12:15,750 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/actor.pt
+2021-04-14 03:12:15,750 INFO    Thread-8  :71213 [dir_watcher.py:_on_file_modified():228] file/dir modified: /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_023644-1z471kx4/files/q_head.pt
+2021-04-14 03:12:15,780 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats
+2021-04-14 03:12:16,076 DEBUG   Thread-5  :71213 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /files/reinholdm/StarCraft2/1z471kx4/file_stream HTTP/1.1" 200 None
+2021-04-14 03:12:20,386 DEBUG   SenderThread:71213 [sender.py:send():88] send: stats

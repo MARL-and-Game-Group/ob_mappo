@@ -48,7 +48,8 @@ class SMACRunner(Runner):
                     values, actions, action_log_probs, rnn_states, rnn_states_critic = self.collect(step)
                 
                 if self.all_args.use_q_head:
-                    dis = torch.softmax(torch.Tensor(pi), dim=-1).clamp(0.0001, 0.9999)
+                    # dis = torch.softmax(torch.Tensor(pi), dim=-1).clamp(0.0001, 0.9999)
+                    dis = torch.Tensor(pi).clamp(0.0001, 0.9999)
                     ob = self.piob_corrected(q_values, dis)
 
                 # Obser reward and next obs
