@@ -202,15 +202,15 @@ class R_MAPPO():
                 advantages = np.zeros_like(buffer.rewards)
                 gae =  np.zeros_like(buffer.rewards[0])
                 for step in reversed(range(buffer.rewards.shape[0])):
-                    delta = buffer.rewards[step] + self.args.gamma * buffer.ob[step + 1] * buffer.masks[step + 1] - \
+                    delta = buffer.rewards[step] + self.args.gamma * buffer.ob[step + 1]  - \
                             buffer.ob[step]
-                    gae = delta + self.args.gamma * self.args.gae_lambda * buffer.masks[step + 1] * gae
+                    gae = delta + self.args.gamma * self.args.gae_lambda * gae
                     advantages[step] = gae
-                print('adv:',advantages)
+                # print('adv:',advantages)
             elif self._use_popart:
                 if self._use_ob:
                     advantages = buffer.rewards + self.args.gamma * self.value_normalizer.denormalize(
-                        buffer.value_preds[1:]) * buffer.masks[1:] - buffer.ob[:-1]
+                        buffer.value_preds[1:]) - buffer.ob[:-1]
                 else:
                     advantages = buffer.returns[:-1] - self.value_normalizer.denormalize(buffer.value_preds[:-1])
             else:
