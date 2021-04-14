@@ -20,7 +20,8 @@ class SMACRunner(Runner):
         :param pi: Probability distributions of actions
         :return: The optimal baseline
         """
-        M = torch.norm(pi) ** 2 + 1
+        M = torch.norm(pi, dim=-1) ** 2 + 1
+        M = M.unsqueeze(-1)
         xweight = M - 2 * pi
         enum = (pi * xweight * q).sum(-1)
         deno = (pi * xweight).sum(-1)

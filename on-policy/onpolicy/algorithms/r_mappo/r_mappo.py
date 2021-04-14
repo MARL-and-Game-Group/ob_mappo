@@ -41,6 +41,7 @@ class R_MAPPO():
         self._use_value_active_masks = args.use_value_active_masks
         self._use_policy_active_masks = args.use_policy_active_masks
         self._use_ob = args.use_ob
+        self._use_gae_ob = args.use_gae_ob
 
         if self._use_popart:
             self.value_normalizer = PopArt(1, device=self.device)
@@ -196,13 +197,16 @@ class R_MAPPO():
         :return train_info: (dict) contains information regarding training update (e.g. loss, grad norms, etc).
         """
         if self.args.use_q_head:
-            if self._use_popart:
-                # q_vals = torch.Tensor(buffer.q_value_preds[:-1])
-                # pi = torch.softmax(torch.Tensor(buffer.pi[:-1]), dim=-1).clamp(0.0001, 0.9999)
-                # ob = self.piob_corrected(q_vals, pi)
-                # actions = torch.tensor(buffer.actions, dtype=torch.int64)
-                # q_taken = torch.gather(q_vals, dim=-1, index=actions).numpy()
-                # advantages = q_taken - buffer.ob[:-1]
+            if self._use_gae_ob:
+                # self.value_preds[-1] = next_value
+                advantages = np.zeros_like(buffer.rewards)
+                gae =  np.zeros_like(buffer.rewards[0])
+                for step in reversed(range(buffer.rewards.shape[0])):
+                    delta = buffer.rewards[step] + self.args.gamma * buffer.ob[step + 1] * buffer.masks[step + 1] - \
+                            buffer.ob[step]
+                    gae = delta + self.args.gamma * self.args.gae_lambda * buffer.masks[step + 1] * gae
+                    advantages[step] = gae
+            elif self._use_popart:
                 if self._use_ob:
                     advantages = buffer.rewards + self.args.gamma * self.value_normalizer.denormalize(
                         buffer.value_preds[1:]) * buffer.masks[1:] - buffer.ob[:-1]

@@ -209,8 +209,10 @@ def get_config():
                         help="The gain # of last action layer")
     parser.add_argument("--use_q_head", action='store_true',
                         default=True, help="Whether to use q_head")
-    parser.add_argument("--use_ob", action='store_false',
-                        default=False, help="Whether to use q_head")
+    parser.add_argument("--use_ob", action='store_true',
+                        default=True, help="Whether to use q_head")
+    parser.add_argument("--use_gae_ob", action='store_true',
+                        default=True, help="Whether to use q_head")
 
     # recurrent parameters
     parser.add_argument("--use_naive_recurrent_policy", action='store_true',

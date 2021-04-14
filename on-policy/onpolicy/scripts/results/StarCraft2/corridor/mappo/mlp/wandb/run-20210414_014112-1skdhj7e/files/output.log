@@ -1,0 +1,235 @@
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/lhmeng/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 24311 -dataDir /home/lhmeng/StarCraftII/ -tempDir /tmp/sc-t71m5ams/'
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/lhmeng/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 23690 -dataDir /home/lhmeng/StarCraftII/ -tempDir /tmp/sc-fhiz7l0_/'
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/lhmeng/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 18689 -dataDir /home/lhmeng/StarCraftII/ -tempDir /tmp/sc-s9wt5p7g/'
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/lhmeng/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 18574 -dataDir /home/lhmeng/StarCraftII/ -tempDir /tmp/sc-_xmlaiyz/'
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/lhmeng/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 20018 -dataDir /home/lhmeng/StarCraftII/ -tempDir /tmp/sc-4ocqocff/'
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/lhmeng/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 21144 -dataDir /home/lhmeng/StarCraftII/ -tempDir /tmp/sc-37kw5t47/'
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/lhmeng/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 22589 -dataDir /home/lhmeng/StarCraftII/ -tempDir /tmp/sc-fzvqzd3i/'
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/lhmeng/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 22366 -dataDir /home/lhmeng/StarCraftII/ -tempDir /tmp/sc-u_bsi_we/'
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:24311
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:20018
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:21144
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:22589
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:22366
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:18689
+Listening on: 127.0.0.1:23690
+Startup Phase 3 complete. Ready for commands.
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:18574
+Startup Phase 3 complete. Ready for commands.
+ConnectHandler: Request from 127.0.0.1:46380 accepted
+ReadyHandler: 127.0.0.1:46380 ready
+ConnectHandler: Request from 127.0.0.1:48188 accepted
+ReadyHandler: 127.0.0.1:48188 ready
+ConnectHandler: Request from 127.0.0.1:43950 accepted
+ReadyHandler: 127.0.0.1:43950 ready
+ConnectHandler: Request from 127.0.0.1:51696 accepted
+ReadyHandler: 127.0.0.1:51696 ready
+ConnectHandler: Request from 127.0.0.1:52850 accepted
+ReadyHandler: 127.0.0.1:52850 ready
+ConnectHandler: Request from 127.0.0.1:33470 accepted
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+ReadyHandler: 127.0.0.1:33470 ready
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+ConnectHandler: Request from 127.0.0.1:37978 accepted
+ReadyHandler: 127.0.0.1:37978 ready
+ConnectHandler: Request from 127.0.0.1:46198 accepted
+Next launch phase started: 2
+Next launch phase started: 3
+ReadyHandler: 127.0.0.1:46198 ready
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface disabled
+Configure: score interface disabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Game has started.
+Successfully loaded stable ids: /home/lhmeng/StarCraftII/stableid.json
+Successfully loaded stable ids: /home/lhmeng/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Game has started.
+Sending ResponseJoinGame
+Game has started.
+Successfully loaded stable ids: /home/lhmeng/StarCraftII/stableid.json
+Successfully loaded stable ids: /home/lhmeng/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Sending ResponseJoinGame
+Game has started.
+Successfully loaded stable ids: /home/lhmeng/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Game has started.
+Successfully loaded stable ids: /home/lhmeng/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Game has started.
+Successfully loaded stable ids: /home/lhmeng/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Game has started.
+Successfully loaded stable ids: /home/lhmeng/StarCraftII/stableid.json
+Sending ResponseJoinGame
+Traceback (most recent call last):
+  File "train/train_smac.py", line 175, in <module>
+    main(sys.argv[1:])
+  File "train/train_smac.py", line 160, in main
+    runner.run()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/runner/shared/smac_runner.py", line 71, in run
+    train_infos = self.train()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/runner/shared/base_runner.py", line 124, in train
+    train_infos = self.trainer.train(self.buffer)
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/algorithms/r_mappo/r_mappo.py", line 203, in train
+    gae =  np.zeros(self.args.n_rollout_threads, buffer.rewards.shape[2], 1)

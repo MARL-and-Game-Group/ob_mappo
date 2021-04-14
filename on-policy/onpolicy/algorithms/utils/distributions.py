@@ -63,9 +63,10 @@ class Categorical(nn.Module):
 
     def forward(self, x, available_actions=None):
         x = self.linear(x)
-        prob = x.clone()
+        # prob = x.clone()
         if available_actions is not None:
             x[available_actions == 0] = -1e10
+        prob = x.clone()
         return FixedCategorical(logits=x), prob
 
 

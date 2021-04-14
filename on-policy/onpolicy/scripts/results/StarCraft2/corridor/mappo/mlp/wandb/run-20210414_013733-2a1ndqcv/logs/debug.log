@@ -1,0 +1,138 @@
+2021-04-14 01:37:33,093 INFO    MainThread:135489 [wandb_init.py:_log_setup():292] Logging user logs to /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_013733-2a1ndqcv/logs/debug.log
+2021-04-14 01:37:33,093 INFO    MainThread:135489 [wandb_init.py:_log_setup():293] Logging internal logs to /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210414_013733-2a1ndqcv/logs/debug-internal.log
+2021-04-14 01:37:33,093 INFO    MainThread:135489 [wandb_setup.py:_flush():68] setting env: {}
+2021-04-14 01:37:33,093 INFO    MainThread:135489 [wandb_setup.py:_flush():68] setting user settings: {}
+2021-04-14 01:37:33,093 INFO    MainThread:135489 [wandb_setup.py:_flush():68] multiprocessing start_methods=fork,spawn,forkserver
+2021-04-14 01:37:45,941 INFO    MainThread:135489 [wandb_run.py:_console_start():1265] atexit reg
+2021-04-14 01:37:45,942 INFO    MainThread:135489 [wandb_run.py:_redirect():1135] redirect: SettingsConsole.REDIRECT
+2021-04-14 01:37:45,943 INFO    MainThread:135489 [wandb_run.py:_redirect():1138] Redirecting console.
+2021-04-14 01:37:45,943 INFO    MainThread:135489 [redirect.py:install():196] install start
+2021-04-14 01:37:45,944 INFO    MainThread:135489 [redirect.py:install():211] install stop
+2021-04-14 01:37:45,944 INFO    MainThread:135489 [redirect.py:install():196] install start
+2021-04-14 01:37:45,944 INFO    MainThread:135489 [redirect.py:install():211] install stop
+2021-04-14 01:37:45,944 INFO    MainThread:135489 [wandb_run.py:_redirect():1182] Redirects installed.
+2021-04-14 01:38:02,968 INFO    MainThread:135489 [wandb_run.py:_atexit_cleanup():1238] got exitcode: 1
+2021-04-14 01:38:02,969 INFO    MainThread:135489 [wandb_run.py:_restore():1210] restore
+2021-04-14 01:38:02,970 INFO    MainThread:135489 [redirect.py:uninstall():215] uninstall start
+2021-04-14 01:38:02,970 INFO    MainThread:135489 [redirect.py:_stop():264] _stop: stdout
+2021-04-14 01:38:02,971 INFO    MainThread:135489 [redirect.py:_stop():270] _stop closed: stdout
+2021-04-14 01:38:02,971 INFO    stdout    :135489 [redirect.py:_pipe_relay():119] relay done saw last write: stdout
+2021-04-14 01:38:02,971 INFO    stdout    :135489 [redirect.py:_pipe_relay():135] relay done done: stdout
+2021-04-14 01:38:02,971 INFO    MainThread:135489 [redirect.py:_stop():276] _stop joined: stdout
+2021-04-14 01:38:02,971 INFO    MainThread:135489 [redirect.py:_stop():278] _stop rd closed: stdout
+2021-04-14 01:38:02,971 INFO    MainThread:135489 [redirect.py:uninstall():219] uninstall done
+2021-04-14 01:38:02,971 INFO    MainThread:135489 [redirect.py:uninstall():215] uninstall start
+2021-04-14 01:38:02,972 INFO    MainThread:135489 [redirect.py:_stop():264] _stop: stderr
+2021-04-14 01:38:02,972 INFO    MainThread:135489 [redirect.py:_stop():270] _stop closed: stderr
+2021-04-14 01:38:02,972 INFO    stderr    :135489 [redirect.py:_pipe_relay():119] relay done saw last write: stderr
+2021-04-14 01:38:02,972 INFO    stderr    :135489 [redirect.py:_pipe_relay():135] relay done done: stderr
+2021-04-14 01:38:02,972 INFO    MainThread:135489 [redirect.py:_stop():276] _stop joined: stderr
+2021-04-14 01:38:02,973 INFO    MainThread:135489 [redirect.py:_stop():278] _stop rd closed: stderr
+2021-04-14 01:38:02,973 INFO    MainThread:135489 [redirect.py:uninstall():219] uninstall done
+2021-04-14 01:38:02,977 INFO    MainThread:135489 [wandb_run.py:_wait_for_finish():1349] got exit ret: uuid: "e092af137ef449c3878496e3aba275df"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 1
+    }
+    pusher_stats {
+      uploaded_bytes: 1399
+      total_bytes: 1399
+    }
+  }
+}
+
+2021-04-14 01:38:04,981 INFO    MainThread:135489 [wandb_run.py:_wait_for_finish():1349] got exit ret: uuid: "d0a209e1a9d844ed91f60a43449597c1"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 5
+    }
+    pusher_stats {
+      uploaded_bytes: 1399
+      total_bytes: 16595
+    }
+  }
+}
+
+2021-04-14 01:38:06,984 INFO    MainThread:135489 [wandb_run.py:_wait_for_finish():1349] got exit ret: uuid: "20a1e443e868490ab4edb8eb2c96716a"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 5
+    }
+    pusher_stats {
+      uploaded_bytes: 1399
+      total_bytes: 16595
+    }
+  }
+}
+
+2021-04-14 01:38:08,988 INFO    MainThread:135489 [wandb_run.py:_wait_for_finish():1349] got exit ret: uuid: "aa8543ce51794f56bcefcdb8af2a50e2"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 5
+    }
+    pusher_stats {
+      uploaded_bytes: 1399
+      total_bytes: 16595
+    }
+  }
+}
+
+2021-04-14 01:38:10,993 INFO    MainThread:135489 [wandb_run.py:_wait_for_finish():1349] got exit ret: uuid: "60b81c3e3d374f3aaa5ad2ee37e638ed"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 5
+    }
+    pusher_stats {
+      uploaded_bytes: 1399
+      total_bytes: 16595
+    }
+  }
+}
+
+2021-04-14 01:38:12,998 INFO    MainThread:135489 [wandb_run.py:_wait_for_finish():1349] got exit ret: uuid: "db9e26606c1a4f66808bfb51f88e0680"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 5
+    }
+    pusher_stats {
+      uploaded_bytes: 1399
+      total_bytes: 16595
+    }
+  }
+}
+
+2021-04-14 01:38:15,002 INFO    MainThread:135489 [wandb_run.py:_wait_for_finish():1349] got exit ret: uuid: "7719384ef42942a6aa4166b132aff72e"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 5
+    }
+    pusher_stats {
+      uploaded_bytes: 16595
+      total_bytes: 16595
+    }
+  }
+}
+
+2021-04-14 01:38:17,007 INFO    MainThread:135489 [wandb_run.py:_wait_for_finish():1349] got exit ret: uuid: "d442a8c8201d42c8a270cd998fac3113"
+response {
+  poll_exit_response {
+    done: true
+    exit_result {
+    }
+    file_counts {
+      wandb_count: 5
+    }
+    pusher_stats {
+      uploaded_bytes: 16595
+      total_bytes: 16595
+    }
+  }
+}
+

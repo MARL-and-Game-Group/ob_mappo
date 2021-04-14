@@ -1,0 +1,137 @@
+2021-04-13 15:09:23,870 INFO    MainThread:121247 [wandb_init.py:_log_setup():292] Logging user logs to /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210413_150923-p1rlk3je/logs/debug.log
+2021-04-13 15:09:23,870 INFO    MainThread:121247 [wandb_init.py:_log_setup():293] Logging internal logs to /home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/scripts/results/StarCraft2/corridor/mappo/mlp/wandb/run-20210413_150923-p1rlk3je/logs/debug-internal.log
+2021-04-13 15:09:23,870 INFO    MainThread:121247 [wandb_setup.py:_flush():68] setting env: {}
+2021-04-13 15:09:23,870 INFO    MainThread:121247 [wandb_setup.py:_flush():68] setting user settings: {}
+2021-04-13 15:09:23,870 INFO    MainThread:121247 [wandb_setup.py:_flush():68] multiprocessing start_methods=fork,spawn,forkserver
+2021-04-13 15:09:34,974 INFO    MainThread:121247 [wandb_run.py:_console_start():1265] atexit reg
+2021-04-13 15:09:34,975 INFO    MainThread:121247 [wandb_run.py:_redirect():1135] redirect: SettingsConsole.REDIRECT
+2021-04-13 15:09:34,976 INFO    MainThread:121247 [wandb_run.py:_redirect():1138] Redirecting console.
+2021-04-13 15:09:34,976 INFO    MainThread:121247 [redirect.py:install():196] install start
+2021-04-13 15:09:34,976 INFO    MainThread:121247 [redirect.py:install():211] install stop
+2021-04-13 15:09:34,977 INFO    MainThread:121247 [redirect.py:install():196] install start
+2021-04-13 15:09:34,977 INFO    MainThread:121247 [redirect.py:install():211] install stop
+2021-04-13 15:09:34,977 INFO    MainThread:121247 [wandb_run.py:_redirect():1182] Redirects installed.
+2021-04-13 15:09:40,950 INFO    MainThread:121247 [wandb_run.py:_atexit_cleanup():1238] got exitcode: 1
+2021-04-13 15:09:40,951 INFO    MainThread:121247 [wandb_run.py:_restore():1210] restore
+2021-04-13 15:09:40,951 INFO    MainThread:121247 [redirect.py:uninstall():215] uninstall start
+2021-04-13 15:09:40,952 INFO    MainThread:121247 [redirect.py:_stop():264] _stop: stdout
+2021-04-13 15:09:40,952 INFO    MainThread:121247 [redirect.py:_stop():270] _stop closed: stdout
+2021-04-13 15:09:40,953 INFO    stdout    :121247 [redirect.py:_pipe_relay():119] relay done saw last write: stdout
+2021-04-13 15:09:40,953 INFO    stdout    :121247 [redirect.py:_pipe_relay():135] relay done done: stdout
+2021-04-13 15:09:40,953 INFO    MainThread:121247 [redirect.py:_stop():276] _stop joined: stdout
+2021-04-13 15:09:40,953 INFO    MainThread:121247 [redirect.py:_stop():278] _stop rd closed: stdout
+2021-04-13 15:09:40,953 INFO    MainThread:121247 [redirect.py:uninstall():219] uninstall done
+2021-04-13 15:09:40,953 INFO    MainThread:121247 [redirect.py:uninstall():215] uninstall start
+2021-04-13 15:09:40,953 INFO    MainThread:121247 [redirect.py:_stop():264] _stop: stderr
+2021-04-13 15:09:40,953 INFO    MainThread:121247 [redirect.py:_stop():270] _stop closed: stderr
+2021-04-13 15:09:40,953 INFO    stderr    :121247 [redirect.py:_pipe_relay():119] relay done saw last write: stderr
+2021-04-13 15:09:40,954 INFO    stderr    :121247 [redirect.py:_pipe_relay():135] relay done done: stderr
+2021-04-13 15:09:40,954 INFO    MainThread:121247 [redirect.py:_stop():276] _stop joined: stderr
+2021-04-13 15:09:40,954 INFO    MainThread:121247 [redirect.py:_stop():278] _stop rd closed: stderr
+2021-04-13 15:09:40,954 INFO    MainThread:121247 [redirect.py:uninstall():219] uninstall done
+2021-04-13 15:09:40,957 INFO    MainThread:121247 [wandb_run.py:_wait_for_finish():1349] got exit ret: uuid: "a869ca005d3a41c9916e124169591c09"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 1
+    }
+    pusher_stats {
+      total_bytes: 1399
+    }
+  }
+}
+
+2021-04-13 15:09:42,961 INFO    MainThread:121247 [wandb_run.py:_wait_for_finish():1349] got exit ret: uuid: "a6f038f932164d618fea935d9724767a"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 5
+    }
+    pusher_stats {
+      total_bytes: 21069
+    }
+  }
+}
+
+2021-04-13 15:09:44,965 INFO    MainThread:121247 [wandb_run.py:_wait_for_finish():1349] got exit ret: uuid: "3c391644e6504076aa056fb8609908d1"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 5
+    }
+    pusher_stats {
+      total_bytes: 21069
+    }
+  }
+}
+
+2021-04-13 15:09:46,968 INFO    MainThread:121247 [wandb_run.py:_wait_for_finish():1349] got exit ret: uuid: "9f9c6b6cc8fa4282a35552d1eba1f91b"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 5
+    }
+    pusher_stats {
+      uploaded_bytes: 1399
+      total_bytes: 21069
+    }
+  }
+}
+
+2021-04-13 15:09:48,972 INFO    MainThread:121247 [wandb_run.py:_wait_for_finish():1349] got exit ret: uuid: "19c0e187a43142d280de3d3a49401efa"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 5
+    }
+    pusher_stats {
+      uploaded_bytes: 1399
+      total_bytes: 21069
+    }
+  }
+}
+
+2021-04-13 15:09:50,976 INFO    MainThread:121247 [wandb_run.py:_wait_for_finish():1349] got exit ret: uuid: "5137ce1b82474c79bd28263ed6663108"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 5
+    }
+    pusher_stats {
+      uploaded_bytes: 1399
+      total_bytes: 21069
+    }
+  }
+}
+
+2021-04-13 15:09:52,979 INFO    MainThread:121247 [wandb_run.py:_wait_for_finish():1349] got exit ret: uuid: "34e286ac9c244b688b3231a87cd6064e"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 5
+    }
+    pusher_stats {
+      uploaded_bytes: 21069
+      total_bytes: 21069
+    }
+  }
+}
+
+2021-04-13 15:09:54,983 INFO    MainThread:121247 [wandb_run.py:_wait_for_finish():1349] got exit ret: uuid: "2a54096bec83456196ce6067b6aa000d"
+response {
+  poll_exit_response {
+    done: true
+    exit_result {
+    }
+    file_counts {
+      wandb_count: 5
+    }
+    pusher_stats {
+      uploaded_bytes: 21069
+      total_bytes: 21069
+    }
+  }
+}
+
+2021-04-13 15:09:56,095 INFO    MainThread:121247 [wandb_run.py:_show_files():1543] logging synced files
+2021-04-13 15:09:56,096 INFO    MainThread:121247 [internal.py:handle_exit():137] Internal process exited

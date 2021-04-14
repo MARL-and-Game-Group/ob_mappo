@@ -1,0 +1,236 @@
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/lhmeng/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 24031 -dataDir /home/lhmeng/StarCraftII/ -tempDir /tmp/sc-ojsszsu7/'
+Version: B75689 (SC2.4.10)
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Build: Aug 12 2019 17:16:57
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/lhmeng/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 21814 -dataDir /home/lhmeng/StarCraftII/ -tempDir /tmp/sc-p2op1ixp/'
+Command Line: '"/home/lhmeng/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 24430 -dataDir /home/lhmeng/StarCraftII/ -tempDir /tmp/sc-cqmh947p/'
+Command Line: '"/home/lhmeng/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 19115 -dataDir /home/lhmeng/StarCraftII/ -tempDir /tmp/sc-aiqa4wy7/'
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/lhmeng/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 17564 -dataDir /home/lhmeng/StarCraftII/ -tempDir /tmp/sc-n2y8yh9y/'
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/lhmeng/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 21839 -dataDir /home/lhmeng/StarCraftII/ -tempDir /tmp/sc-w6kulif6/'
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/lhmeng/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 21701 -dataDir /home/lhmeng/StarCraftII/ -tempDir /tmp/sc-qp3tlsfs/'
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/lhmeng/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 18585 -dataDir /home/lhmeng/StarCraftII/ -tempDir /tmp/sc-o9356lwq/'
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Starting up...
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 1 complete
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:21814
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:19115
+Listening on: 127.0.0.1:24430
+Startup Phase 3 complete. Ready for commands.
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:24031
+Listening on: 127.0.0.1:21701
+Startup Phase 3 complete. Ready for commands.
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:21839
+Startup Phase 3 complete. Ready for commands.
+Listening on: 127.0.0.1:17564
+Listening on: 127.0.0.1:18585
+Startup Phase 3 complete. Ready for commands.
+Startup Phase 3 complete. Ready for commands.
+ConnectHandler: Request from 127.0.0.1:48788 accepted
+ReadyHandler: 127.0.0.1:48788 ready
+ConnectHandler: Request from 127.0.0.1:54778 accepted
+ReadyHandler: 127.0.0.1:54778 ready
+ConnectHandler: Request from 127.0.0.1:34484 accepted
+ReadyHandler: 127.0.0.1:34484 ready
+ConnectHandler: Request from 127.0.0.1:41974 accepted
+ReadyHandler: 127.0.0.1:41974 ready
+ConnectHandler: Request from 127.0.0.1:60772 accepted
+ReadyHandler: 127.0.0.1:60772 ready
+ConnectHandler: Request from 127.0.0.1:51228 accepted
+ConnectHandler: Request from 127.0.0.1:46836 accepted
+ReadyHandler: 127.0.0.1:46836 ready
+ReadyHandler: 127.0.0.1:51228 ready
+Process Process-3:
+ConnectHandler: Request from 127.0.0.1:50886 accepted
+ReadyHandler: 127.0.0.1:50886 ready
+Traceback (most recent call last):
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/env_wrappers.py", line 316, in shareworker
+    ob, s_ob, available_actions = env.reset()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 388, in reset
+    self._launch()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 345, in _launch
+    map_data=self._run_config.map_data(_map.path)),
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/site-packages/pysc2/run_configs/lib.py", line 126, in map_data
+    raise ValueError("Map '%s' not found." % map_name)
+ValueError: Map 'SMAC_Maps/corridor.SC2Map' not found.
+Process Process-2:
+Traceback (most recent call last):
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/env_wrappers.py", line 316, in shareworker
+    ob, s_ob, available_actions = env.reset()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 388, in reset
+    self._launch()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 345, in _launch
+    map_data=self._run_config.map_data(_map.path)),
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/site-packages/pysc2/run_configs/lib.py", line 126, in map_data
+    raise ValueError("Map '%s' not found." % map_name)
+ValueError: Map 'SMAC_Maps/corridor.SC2Map' not found.
+Process Process-4:
+Process Process-5:
+Process Process-6:
+Traceback (most recent call last):
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/env_wrappers.py", line 316, in shareworker
+    ob, s_ob, available_actions = env.reset()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 388, in reset
+    self._launch()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 345, in _launch
+    map_data=self._run_config.map_data(_map.path)),
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/site-packages/pysc2/run_configs/lib.py", line 126, in map_data
+    raise ValueError("Map '%s' not found." % map_name)
+ValueError: Map 'SMAC_Maps/corridor.SC2Map' not found.
+Traceback (most recent call last):
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/env_wrappers.py", line 316, in shareworker
+    ob, s_ob, available_actions = env.reset()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 388, in reset
+    self._launch()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 345, in _launch
+    map_data=self._run_config.map_data(_map.path)),
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/site-packages/pysc2/run_configs/lib.py", line 126, in map_data
+    raise ValueError("Map '%s' not found." % map_name)
+ValueError: Map 'SMAC_Maps/corridor.SC2Map' not found.
+Traceback (most recent call last):
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/env_wrappers.py", line 316, in shareworker
+    ob, s_ob, available_actions = env.reset()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 388, in reset
+    self._launch()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 345, in _launch
+    map_data=self._run_config.map_data(_map.path)),
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/site-packages/pysc2/run_configs/lib.py", line 126, in map_data
+    raise ValueError("Map '%s' not found." % map_name)
+ValueError: Map 'SMAC_Maps/corridor.SC2Map' not found.
+Process Process-7:
+Traceback (most recent call last):
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/env_wrappers.py", line 316, in shareworker
+    ob, s_ob, available_actions = env.reset()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 388, in reset
+    self._launch()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 345, in _launch
+    map_data=self._run_config.map_data(_map.path)),
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/site-packages/pysc2/run_configs/lib.py", line 126, in map_data
+    raise ValueError("Map '%s' not found." % map_name)
+ValueError: Map 'SMAC_Maps/corridor.SC2Map' not found.
+Process Process-9:
+CloseHandler: 127.0.0.1:54778 disconnected
+Traceback (most recent call last):
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/env_wrappers.py", line 316, in shareworker
+    ob, s_ob, available_actions = env.reset()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 388, in reset
+    self._launch()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 345, in _launch
+    map_data=self._run_config.map_data(_map.path)),
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/site-packages/pysc2/run_configs/lib.py", line 126, in map_data
+    raise ValueError("Map '%s' not found." % map_name)
+ValueError: Map 'SMAC_Maps/corridor.SC2Map' not found.
+CloseHandler: 127.0.0.1:34484 disconnected
+Process Process-8:
+CloseHandler: 127.0.0.1:60772 disconnected
+CloseHandler: 127.0.0.1:41974 disconnected
+Traceback (most recent call last):
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/env_wrappers.py", line 316, in shareworker
+    ob, s_ob, available_actions = env.reset()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 388, in reset
+    self._launch()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/starcraft2/StarCraft2_Env.py", line 345, in _launch
+    map_data=self._run_config.map_data(_map.path)),
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/site-packages/pysc2/run_configs/lib.py", line 126, in map_data
+    raise ValueError("Map '%s' not found." % map_name)
+ValueError: Map 'SMAC_Maps/corridor.SC2Map' not found.
+CloseHandler: 127.0.0.1:48788 disconnected
+CloseHandler: 127.0.0.1:51228 disconnected
+CloseHandler: 127.0.0.1:50886 disconnected
+CloseHandler: 127.0.0.1:46836 disconnected
+Traceback (most recent call last):
+  File "train/train_smac.py", line 175, in <module>
+    main(sys.argv[1:])
+  File "train/train_smac.py", line 160, in main
+    runner.run()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/runner/shared/smac_runner.py", line 31, in run
+    self.warmup()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/runner/shared/smac_runner.py", line 126, in warmup
+    obs, share_obs, available_actions = self.envs.reset()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/env_wrappers.py", line 377, in reset
+    results = [remote.recv() for remote in self.remotes]
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/env_wrappers.py", line 377, in <listcomp>
+    results = [remote.recv() for remote in self.remotes]
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 383, in _recv
+    raise EOFError
+EOFError
