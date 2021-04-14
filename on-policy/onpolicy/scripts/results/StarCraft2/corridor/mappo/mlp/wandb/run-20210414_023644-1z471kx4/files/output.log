@@ -752,3 +752,150 @@ incre win rate is 0.0.
  Map corridor Algo mappo Exp mlp updates 290/3125 episodes, total num timesteps 931200/10000000, FPS 444.
 
 incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 295/3125 episodes, total num timesteps 947200/10000000, FPS 445.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 300/3125 episodes, total num timesteps 963200/10000000, FPS 445.
+
+incre win rate is 0.0.
+eval win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 305/3125 episodes, total num timesteps 979200/10000000, FPS 444.
+
+incre win rate is 0.0.
+
+ Map corridor Algo mappo Exp mlp updates 310/3125 episodes, total num timesteps 995200/10000000, FPS 444.
+
+incre win rate is 0.0.
+Process Process-9:
+Process Process-7:
+Process Process-4:
+Process Process-2:
+Process Process-3:
+Traceback (most recent call last):
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/env_wrappers.py", line 304, in shareworker
+    cmd, data = remote.recv()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Process Process-5:
+Traceback (most recent call last):
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/env_wrappers.py", line 304, in shareworker
+    cmd, data = remote.recv()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+Traceback (most recent call last):
+KeyboardInterrupt
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/env_wrappers.py", line 304, in shareworker
+    cmd, data = remote.recv()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/env_wrappers.py", line 304, in shareworker
+    cmd, data = remote.recv()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/env_wrappers.py", line 304, in shareworker
+    cmd, data = remote.recv()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/env_wrappers.py", line 304, in shareworker
+    cmd, data = remote.recv()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "train/train_smac.py", line 175, in <module>
+    main(sys.argv[1:])
+  File "train/train_smac.py", line 160, in main
+    runner.run()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/runner/shared/smac_runner.py", line 52, in run
+    dis = torch.Tensor(pi).clamp(0.0001, 0.9999)
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/runner/shared/smac_runner.py", line 27, in piob_corrected
+    deno = (pi * xweight).sum(-1)
+KeyboardInterrupt
+Process Process-6:
+Process Process-8:
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/env_wrappers.py", line 304, in shareworker
+    cmd, data = remote.recv()
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/envs/env_wrappers.py", line 304, in shareworker
+    cmd, data = remote.recv()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 250, in recv
+    buf = self._recv_bytes()
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+  File "/home/lhmeng/miniconda3/envs/ob_mapppo/lib/python3.6/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+KeyboardInterrupt

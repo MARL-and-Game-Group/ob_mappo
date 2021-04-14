@@ -11,3 +11,34 @@
 2021-04-14 02:36:55,602 INFO    MainThread:71199 [redirect.py:install():196] install start
 2021-04-14 02:36:55,603 INFO    MainThread:71199 [redirect.py:install():211] install stop
 2021-04-14 02:36:55,603 INFO    MainThread:71199 [wandb_run.py:_redirect():1182] Redirects installed.
+2021-04-14 03:14:45,204 INFO    MainThread:71199 [wandb_run.py:_atexit_cleanup():1238] got exitcode: 255
+2021-04-14 03:14:45,207 INFO    MainThread:71199 [wandb_run.py:_restore():1210] restore
+2021-04-14 03:14:45,207 INFO    MainThread:71199 [redirect.py:uninstall():215] uninstall start
+2021-04-14 03:14:45,207 INFO    MainThread:71199 [redirect.py:_stop():264] _stop: stdout
+2021-04-14 03:14:45,208 INFO    stdout    :71199 [redirect.py:_pipe_relay():119] relay done saw last write: stdout
+2021-04-14 03:14:45,208 INFO    MainThread:71199 [redirect.py:_stop():270] _stop closed: stdout
+2021-04-14 03:14:45,208 INFO    stdout    :71199 [redirect.py:_pipe_relay():135] relay done done: stdout
+2021-04-14 03:14:45,209 INFO    MainThread:71199 [redirect.py:_stop():276] _stop joined: stdout
+2021-04-14 03:14:45,209 INFO    MainThread:71199 [redirect.py:_stop():278] _stop rd closed: stdout
+2021-04-14 03:14:45,209 INFO    MainThread:71199 [redirect.py:uninstall():219] uninstall done
+2021-04-14 03:14:45,209 INFO    MainThread:71199 [redirect.py:uninstall():215] uninstall start
+2021-04-14 03:14:45,209 INFO    MainThread:71199 [redirect.py:_stop():264] _stop: stderr
+2021-04-14 03:14:45,209 INFO    MainThread:71199 [redirect.py:_stop():270] _stop closed: stderr
+2021-04-14 03:14:45,209 INFO    stderr    :71199 [redirect.py:_pipe_relay():119] relay done saw last write: stderr
+2021-04-14 03:14:45,209 INFO    stderr    :71199 [redirect.py:_pipe_relay():135] relay done done: stderr
+2021-04-14 03:14:45,210 INFO    MainThread:71199 [redirect.py:_stop():276] _stop joined: stderr
+2021-04-14 03:14:45,210 INFO    MainThread:71199 [redirect.py:_stop():278] _stop rd closed: stderr
+2021-04-14 03:14:45,210 INFO    MainThread:71199 [redirect.py:uninstall():219] uninstall done
+2021-04-14 03:14:45,213 INFO    MainThread:71199 [wandb_run.py:_wait_for_finish():1349] got exit ret: uuid: "d54828dac68840f08db4232b6a991708"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 1
+    }
+    pusher_stats {
+      uploaded_bytes: 1414
+      total_bytes: 1414
+    }
+  }
+}
+
