@@ -26,6 +26,8 @@ class FixedCategorical(torch.distributions.Categorical):
 
     def mode(self):
         return self.probs.argmax(dim=-1, keepdim=True)
+    def get_pi(self):
+        return self.probs
 
 
 # Normal

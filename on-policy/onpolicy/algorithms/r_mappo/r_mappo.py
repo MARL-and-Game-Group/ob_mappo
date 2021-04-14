@@ -206,6 +206,7 @@ class R_MAPPO():
                             buffer.ob[step]
                     gae = delta + self.args.gamma * self.args.gae_lambda * buffer.masks[step + 1] * gae
                     advantages[step] = gae
+                print('adv:',advantages)
             elif self._use_popart:
                 if self._use_ob:
                     advantages = buffer.rewards + self.args.gamma * self.value_normalizer.denormalize(
