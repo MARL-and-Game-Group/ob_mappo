@@ -1,0 +1,1 @@
+{"incre_win_rate": 0.0, "value_loss": 1.1133923768997191, "policy_loss": NaN, "dist_entropy": NaN, "actor_grad_norm": NaN, "critic_grad_norm": 2.634810209274292, "ratio": NaN, "dead_ratio": 0.16786159600997508, "average_step_rewards": 0.08998524397611618, "_step": 6400, "_runtime": 37, "_timestamp": 1618450965}

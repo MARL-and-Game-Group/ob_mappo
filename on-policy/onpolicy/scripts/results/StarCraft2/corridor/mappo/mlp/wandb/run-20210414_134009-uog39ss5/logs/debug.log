@@ -11,3 +11,4 @@
 2021-04-14 13:40:20,290 INFO    MainThread:5112 [redirect.py:install():196] install start
 2021-04-14 13:40:20,290 INFO    MainThread:5112 [redirect.py:install():211] install stop
 2021-04-14 13:40:20,290 INFO    MainThread:5112 [wandb_run.py:_redirect():1182] Redirects installed.
+2021-04-14 18:10:02,243 INFO    MainThread:5112 [wandb_run.py:finish():972] finishing run reinholdm/StarCraft2/uog39ss5

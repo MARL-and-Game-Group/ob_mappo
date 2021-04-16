@@ -85,13 +85,17 @@ class R_MAPPOPolicy:
 
         if self.args.use_q_head:
             q_values, rnn_states_critic = self.q_head(cent_obs, rnn_states_critic, masks)
-            values = torch.max(q_values, dim=-1)[0].unsqueeze(-1)
+            x = q_values.clone()
+            if available_actions is not None:
+                q_values[available_actions == 0] = 0 # To compute the ob correctly
+                x[available_actions==0] = -1e10 # To avoid the zero value in V
+            values = torch.max(x, dim=-1)[0].unsqueeze(-1)
             return q_values, values, actions, action_log_probs, rnn_states_actor, rnn_states_critic, pi
         else:
             values, rnn_states_critic = self.critic(cent_obs, rnn_states_critic, masks)
             return values, actions, action_log_probs, rnn_states_actor, rnn_states_critic
 
-    def get_values(self, cent_obs, rnn_states_critic, masks):
+    def get_values(self, cent_obs, rnn_states_critic, masks, available_actions):
         """
         Get value function predictions.
         :param cent_obs (np.ndarray): centralized input to the critic.
@@ -102,7 +106,11 @@ class R_MAPPOPolicy:
         """
         if self.args.use_q_head:
             q_values, _ = self.q_head(cent_obs, rnn_states_critic, masks)
-            values = torch.max(q_values, dim=-1)[0].unsqueeze(-1)
+            x = q_values.clone()
+            if available_actions is not None:
+                q_values[available_actions == 0] = 0
+                x[available_actions==0] = -1e10
+            values = torch.max(x, dim=-1)[0].unsqueeze(-1)
         else:
             values, _ = self.critic(cent_obs, rnn_states_critic, masks)
         return values
