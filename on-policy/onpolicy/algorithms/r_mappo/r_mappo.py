@@ -209,8 +209,10 @@ class R_MAPPO():
                 # print('adv:',advantages)
             elif self._use_popart:
                 if self._use_ob:
-                    advantages = buffer.rewards + self.args.gamma * self.value_normalizer.denormalize(
-                        buffer.value_preds[1:]) - buffer.ob[:-1]
+                    advantages = buffer.rewards + self.args.gamma * buffer.value_preds[1:] - buffer.ob[:-1]
+                    print('r+next_v:',  buffer.rewards + self.args.gamma * buffer.value_preds[1:])
+                    print('ob:', buffer.ob[:-1])
+                    print('value:', buffer.value_preds[:-1])
                 else:
                     advantages = buffer.returns[:-1] - self.value_normalizer.denormalize(buffer.value_preds[:-1])
             else:

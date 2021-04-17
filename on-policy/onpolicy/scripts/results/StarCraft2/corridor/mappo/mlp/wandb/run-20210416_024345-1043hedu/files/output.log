@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "train/train_smac.py", line 175, in <module>
+    main(sys.argv[1:])
+  File "train/train_smac.py", line 159, in main
+    runner = Runner(config)
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/runner/shared/smac_runner.py", line 14, in __init__
+    super(SMACRunner, self).__init__(config)
+  File "/home/lhmeng/rlproj/ob_mappo/on-policy/onpolicy/runner/shared/base_runner.py", line 66, in __init__
+    from onpolicy.algorithms.r_mappo.r_mappo import R_MAPPO as TrainAlgo

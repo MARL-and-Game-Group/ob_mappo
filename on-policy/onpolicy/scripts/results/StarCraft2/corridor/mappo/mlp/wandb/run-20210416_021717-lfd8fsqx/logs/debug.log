@@ -11,3 +11,21 @@
 2021-04-16 02:17:28,831 INFO    MainThread:48868 [redirect.py:install():196] install start
 2021-04-16 02:17:28,831 INFO    MainThread:48868 [redirect.py:install():211] install stop
 2021-04-16 02:17:28,831 INFO    MainThread:48868 [wandb_run.py:_redirect():1182] Redirects installed.
+2021-04-16 02:49:27,667 INFO    MainThread:48868 [wandb_run.py:_atexit_cleanup():1238] got exitcode: 255
+2021-04-16 02:49:27,669 INFO    MainThread:48868 [wandb_run.py:_restore():1210] restore
+2021-04-16 02:49:27,669 INFO    MainThread:48868 [redirect.py:uninstall():215] uninstall start
+2021-04-16 02:49:27,671 INFO    MainThread:48868 [redirect.py:_stop():264] _stop: stdout
+2021-04-16 02:49:27,671 INFO    MainThread:48868 [redirect.py:_stop():270] _stop closed: stdout
+2021-04-16 02:49:27,672 INFO    stdout    :48868 [redirect.py:_pipe_relay():119] relay done saw last write: stdout
+2021-04-16 02:49:27,672 INFO    stdout    :48868 [redirect.py:_pipe_relay():135] relay done done: stdout
+2021-04-16 02:49:27,672 INFO    MainThread:48868 [redirect.py:_stop():276] _stop joined: stdout
+2021-04-16 02:49:27,673 INFO    MainThread:48868 [redirect.py:_stop():278] _stop rd closed: stdout
+2021-04-16 02:49:27,673 INFO    MainThread:48868 [redirect.py:uninstall():219] uninstall done
+2021-04-16 02:49:27,673 INFO    MainThread:48868 [redirect.py:uninstall():215] uninstall start
+2021-04-16 02:49:27,673 INFO    MainThread:48868 [redirect.py:_stop():264] _stop: stderr
+2021-04-16 02:49:27,673 INFO    MainThread:48868 [redirect.py:_stop():270] _stop closed: stderr
+2021-04-16 02:49:27,673 INFO    stderr    :48868 [redirect.py:_pipe_relay():119] relay done saw last write: stderr
+2021-04-16 02:49:27,673 INFO    stderr    :48868 [redirect.py:_pipe_relay():135] relay done done: stderr
+2021-04-16 02:49:27,674 INFO    MainThread:48868 [redirect.py:_stop():276] _stop joined: stderr
+2021-04-16 02:49:27,675 INFO    MainThread:48868 [redirect.py:_stop():278] _stop rd closed: stderr
+2021-04-16 02:49:27,675 INFO    MainThread:48868 [redirect.py:uninstall():219] uninstall done
